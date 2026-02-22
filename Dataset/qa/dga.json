@@ -1,0 +1,202 @@
+[
+{
+  "id": "DGA_Q01",
+  "document": "DGA",
+  "category": "Definition",
+  "question": "What is a 'data sharing' means?",
+  "article": "Article 2(10)",
+  "answer_text": "'data sharing' means the provision of data by a data subject or a data holder to a data user for the purpose of the joint or individual use of such data, based on voluntary agreements or Union or national law, directly or through an intermediary, for example under open or commercial licences subject to a fee or free of charge;",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "DGA_Q02",
+  "document": "DGA",
+  "category": "Definition",
+  "question": "What is a 'data holder'?",
+  "article": "Article 2(8)",
+  "answer_text": "'data holder' means a legal person, including public sector bodies and international organisations, or a natural person who is not a data subject with respect to the specific data in question, which, in accordance with applicable Union or national law, has the right to grant access to or to share certain personal data or non-personal data;",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "DGA_Q03",
+  "document": "DGA",
+  "category": "Definition",
+  "question": "What is a 'data user'?",
+  "article": "Article 2(9)",
+  "answer_text": "'data user' means a natural or legal person who has lawful access to certain personal or non-personal data and has the right, including under Regulation (EU) 2016/679 in the case of personal data, to use that data for commercial or non- commercial purposes;",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "DGA_Q04",
+  "document": "DGA",
+  "category": "Definition",
+  "question": "What is 'data altruism'?",
+  "article": "Article 2(16)",
+  "answer_text": "'data altruism' means the voluntary sharing of data on the basis of the consent of data subjects to process personal data pertaining to them, or permissions of data holders to allow the use of their non-personal data without seeking or receiving a reward that goes beyond compensation related to the costs that they incur where they make their data available for objectives of general interest as provided for in national law, where applicable, such as healthcare, combating climate change, improving mobility, facilitating the development, production and dissemination of official statistics, improving the provision of public services, public policy making or scientific research purposes in the general interest;",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "DGA_Q05",
+  "document": "DGA",
+  "category": "Obligation",
+  "question": "What must providers of data intermediation services submit before starting activities?",
+  "article": "Article 11(1)",
+  "answer_text": "Any data intermediation services provider who intends to provide the data intermediation services referred to in Article 10 shall submit a notification to the competent authority for data intermediation services.",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "DGA_Q06",
+  "document": "DGA",
+  "category": "Obligation",
+  "question": "What must data intermediation service providers ensure regarding neutrality?",
+  "article": "Article 12",
+  "answer_text": "Providers of data intermediation services shall act in a neutral manner with regard to the data exchanged between data holders and data users.",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "DGA_Q07",
+  "document": "DGA",
+  "category": "Obligation",
+  "question": "What must public sector bodies ensure when granting re-use of certain data?",
+  "article": "Article 5(1)",
+  "answer_text": "Public sector bodies which are competent under national law to grant or refuse access for the re-use of one or more of the categories of data referred to in Article 3(1) shall make publicly available the conditions for allowing such re-use and the procedure to request the re-use via the single information point referred to in Article 8. Where they grant or refuse access for re-use, they may be assisted by the competent bodies referred to in Article 7(1).",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "DGA_Q08",
+  "document": "DGA",
+  "category": "Obligation",
+  "question": "What must recognised data altruism organisations do to be registered?",
+  "article": "Article 18",
+  "answer_text": "Entities that meet the requirements laid down in this Chapter may apply for registration in the public national register of recognised data altruism organisations.",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "DGA_Q09",
+  "document": "DGA",
+  "category": "Prohibition",
+  "question": "What is prohibited regarding the use of data by data intermediation service providers?",
+  "article": "Article 12",
+  "answer_text": "Providers of data intermediation services shall not use the data for purposes other than putting them at the disposal of data users.",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "DGA_Q10",
+  "document": "DGA",
+  "category": "Prohibition",
+  "question": "What is prohibited regarding conflicts of interest for data intermediation service providers?",
+  "article": "Article 12",
+  "answer_text": "Providers of data intermediation services shall not favour their own services or the services of related entities.",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "DGA_Q11",
+  "document": "DGA",
+  "category": "Prohibition",
+  "question": "What is prohibited regarding exclusive arrangements for re-use of public sector data?",
+  "article": "Article 4",
+  "answer_text": "Exclusive arrangements for the re-use of protected data shall be prohibited.",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "DGA_Q12",
+  "document": "DGA",
+  "category": "Prohibition",
+  "question": "What is prohibited regarding the use of the 'European data altruism organisation recognised in the Union' label?",
+  "article": "Article 20",
+  "answer_text": "Only organisations registered in the public national register shall use the label 'European data altruism organisation recognised in the Union'.",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "DGA_Q13",
+  "document": "DGA",
+  "category": "Numerical threshold",
+  "question": "What costs may public sector bodies charge for re-use of data?",
+  "article": "Article 6",
+  "answer_text": "Public sector bodies may charge fees for allowing the re-use of protected data.",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "DGA_Q14",
+  "document": "DGA",
+  "category": "Numerical threshold",
+  "question": "What is the maximum duration of exclusive arrangements where exceptionally permitted?",
+  "article": "Article 4",
+  "answer_text": "The duration of such an exclusive arrangement shall not exceed 12 months.",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "DGA_Q15",
+  "document": "DGA",
+  "category": "Numerical threshold",
+  "question": "Within what period must the competent authority assess the notification of a data intermediation service provider?",
+  "article": "Article 11",
+  "answer_text": "The competent authority shall assess the notification within two months.",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "DGA_Q16",
+  "document": "DGA",
+  "category": "Numerical threshold",
+  "question": "What must Member States lay down regarding penalties?",
+  "article": "Article 31",
+  "answer_text": "Member States shall lay down the rules on penalties applicable to infringements of this Regulation.",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "DGA_Q17",
+  "document": "DGA",
+  "category": "Cross-reference",
+  "question": "Which Regulation is referenced regarding personal data protection?",
+  "article": "Article 1(3)",
+  "answer_text": "Regulation (EU) 2016/679",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "DGA_Q18",
+  "document": "DGA",
+  "category": "Cross-reference",
+  "question": "Which Directive is referenced regarding open data and public sector information?",
+  "article": "Recitals and Article 1",
+  "answer_text": "Directive (EU) 2019/1024",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "DGA_Q19",
+  "document": "DGA",
+  "category": "Cross-reference",
+  "question": "Which Chapter governs re-use of certain protected data held by public sector bodies?",
+  "article": "Chapter II",
+  "answer_text": "Re-use of certain categories of protected data held by public sector bodies",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "DGA_Q20",
+  "document": "DGA",
+  "category": "Cross-reference",
+  "question": "Which Chapter governs data altruism?",
+  "article": "Chapter IV",
+  "answer_text": "Data altruism",
+  "start_char": null,
+  "end_char": null
+}
+]

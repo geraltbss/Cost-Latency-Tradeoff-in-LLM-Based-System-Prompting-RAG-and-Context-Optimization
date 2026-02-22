@@ -1,0 +1,202 @@
+[
+{
+  "id": "AIACT_Q01",
+  "document": "AI Act",
+  "category": "Definition",
+  "question": "What is an 'AI system' under the Regulation?",
+  "article": "Article 3(1)",
+  "answer_text": "'AI system' means a machine-based system that is designed to operate with varying levels of autonomy and that may exhibit adaptiveness after deployment, and that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments;",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "AIACT_Q02",
+  "document": "AI Act",
+  "category": "Definition",
+  "question": "What is a 'provider' of an AI system?",
+  "article": "Article 3",
+  "answer_text": "'provider' means a natural or legal person, public authority, agency or other body that develops an AI system or a general-purpose AI model or that has an AI system or a general-purpose AI model developed and places it on the market or puts the AI system into service under its own name or trademark, whether for payment or free of charge;",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "AIACT_Q03",
+  "document": "AI Act",
+  "category": "Definition",
+  "question": "What is a 'high-risk AI system'?",
+  "article": "Article 6(1)",
+  "answer_text": "Irrespective of whether an AI system is placed on the market or put into service independently of the products referred to in points (a) and (b), that AI system shall be considered to be high-risk where both of the following conditions are fulfilled:(a) the AI system is intended to be used as a safety component of a product, or the AI system is itself a product, covered by the Union harmonisation legislation listed in Annex I;(b) the product whose safety component pursuant to point (a) is the AI system, or the AI system itself as a product, is required to undergo a third-party conformity assessment, with a view to the placing on the market or the putting into service of that product pursuant to the Union harmonisation legislation listed in Annex I.",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "AIACT_Q04",
+  "document": "AI Act",
+  "category": "Definition",
+  "question": "What is a 'deployer'?",
+  "article": "Article 3",
+  "answer_text": "'deployer' means a natural or legal person, public authority, agency or other body using an AI system under its authority except where the AI system is used in the course of a personal non-professional activity;",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "AIACT_Q05",
+  "document": "AI Act",
+  "category": "Obligation",
+  "question": "What must providers establish for high-risk AI systems?",
+  "article": "Article 9(1)",
+  "answer_text": "A risk management system shall be established, implemented, documented and maintained in relation to high-risk AI systems.",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "AIACT_Q06",
+  "document": "AI Act",
+  "category": "Obligation",
+  "question": "What must providers draw up before placing a high-risk AI system on the market?",
+  "article": "Article 11(1)",
+  "answer_text": "The technical documentation of a high-risk AI system shall be drawn up before that system is placed on the market or put into service and shall be kept up-to date.",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "AIACT_Q07",
+  "document": "AI Act",
+  "category": "Obligation",
+  "question": "What must high-risk AI systems be designed to enable regarding oversight?",
+  "article": "Article 14(1)",
+  "answer_text": "High-risk AI systems shall be designed and developed in such a way, including with appropriate human-machine interface tools, that they can be effectively overseen by natural persons during the period in which they are in use.",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "AIACT_Q08",
+  "document": "AI Act",
+  "category": "Obligation",
+  "question": "What must providers ensure when an AI system interacts with natural persons?",
+  "article": "Article 50(1)",
+  "answer_text": "Providers shall ensure that AI systems intended to interact directly with natural persons are designed and developed in such a way that the natural persons concerned are informed that they are interacting with an AI system, unless this is obvious from the point of view of a natural person who is reasonably well-informed, observant and circumspect, taking into account the circumstances and the context of use. This obligation shall not apply to AI systems authorised by law to detect, prevent, investigate or prosecute criminal offences, subject to appropriate safeguards for the rights and freedoms of third parties, unless those systems are available for the public to report a criminal offence.",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "AIACT_Q09",
+  "document": "AI Act",
+  "category": "Prohibition",
+  "question": "What is prohibited regarding social scoring?",
+  "article": "Article 5(1)(c)",
+  "answer_text": "the placing on the market, the putting into service or the use of AI systems for the evaluation or classification of natural persons or groups of persons over a certain period of time based on their social behaviour or known, inferred or predicted personal or personality characteristics",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "AIACT_Q10",
+  "document": "AI Act",
+  "category": "Prohibition",
+  "question": "What is prohibited regarding real-time remote biometric identification in publicly accessible spaces?",
+  "article": "Article 5(1)(d)",
+  "answer_text": "the placing on the market, the putting into service for this specific purpose, or the use of an AI system for making risk assessments of natural persons in order to assess or predict the risk of a natural person committing a criminal offence, based solely on the profiling of a natural person or on assessing their personality traits and characteristics; this prohibition shall not apply to AI systems used to support the human assessment of the involvement of a person in a criminal activity, which is already based on objective and verifiable facts directly linked to a criminal activity;",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "AIACT_Q11",
+  "document": "AI Act",
+  "category": "Prohibition",
+  "question": "What is prohibited regarding subliminal techniques?",
+  "article": "Article 5(1)(a)",
+  "answer_text": "the placing on the market, the putting into service or the use of an AI system that deploys subliminal techniques beyond a person’s consciousness or purposefully manipulative or deceptive techniques, with the objective, or the effect of materially distorting the behaviour of a person or a group of persons by appreciably impairing their ability to make an informed decision, thereby causing them to take a decision that they would not have otherwise taken in a manner that causes or is reasonably likely to cause that person, another person or group of persons significant harm;",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "AIACT_Q12",
+  "document": "AI Act",
+  "category": "Prohibition",
+  "question": "What is prohibited regarding exploitation of vulnerabilities?",
+  "article": "Article 5(1)(b)",
+  "answer_text": "the placing on the market, the putting into service or the use of an AI system that exploits any of the vulnerabilities of a natural person or a specific group of persons due to their age, disability or a specific social or economic situation, with the objective, or the effect, of materially distorting the behaviour of that person or a person belonging to that group in a manner that causes or is reasonably likely to cause that person or another person significant harm;",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "AIACT_Q13",
+  "document": "AI Act",
+  "category": "Numerical threshold",
+  "question": "What is the maximum administrative fine for prohibited AI practices?",
+  "article": "Article 71",
+  "answer_text": "administrative fines up to 35 000 000 EUR or, if the offender is an undertaking, up to 7 % of its total worldwide annual turnover",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "AIACT_Q14",
+  "document": "AI Act",
+  "category": "Numerical threshold",
+  "question": "What is the lower administrative fine tier for incorrect information?",
+  "article": "Article 71",
+  "answer_text": "administrative fines up to 7 500 000 EUR or, if the offender is an undertaking, up to 1 % of its total worldwide annual turnover",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "AIACT_Q15",
+  "document": "AI Act",
+  "category": "Numerical threshold",
+  "question": "What turnover percentage applies to SMEs for certain fines?",
+  "article": "Article 71",
+  "answer_text": "For SMEs, including start-ups, each fine shall be subject to the lower of the two amounts",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "AIACT_Q16",
+  "document": "AI Act",
+  "category": "Numerical threshold",
+  "question": "How long must providers retain documentation for high-risk AI systems?",
+  "article": "Article 18",
+  "answer_text": "Providers shall keep the documentation at the disposal of the national competent authorities for a period of 10 years after the high-risk AI system has been placed on the market or put into service.",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "AIACT_Q17",
+  "document": "AI Act",
+  "category": "Cross-reference",
+  "question": "Where are the use cases listed that determine high-risk AI systems?",
+  "article": "Article 6(2)",
+  "answer_text": "Annex III",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "AIACT_Q18",
+  "document": "AI Act",
+  "category": "Cross-reference",
+  "question": "Which Regulation is referenced regarding personal data protection?",
+  "article": "Recitals and operative provisions",
+  "answer_text": "Regulation (EU) 2016/679",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "AIACT_Q19",
+  "document": "AI Act",
+  "category": "Cross-reference",
+  "question": "Which Articles govern conformity assessment procedures?",
+  "article": "Articles 43–47",
+  "answer_text": "Conformity assessment",
+  "start_char": null,
+  "end_char": null
+},
+{
+  "id": "AIACT_Q20",
+  "document": "AI Act",
+  "category": "Cross-reference",
+  "question": "Which Article governs CE marking of high-risk AI systems?",
+  "article": "Article 49",
+  "answer_text": "CE marking",
+  "start_char": null,
+  "end_char": null
+}
+]

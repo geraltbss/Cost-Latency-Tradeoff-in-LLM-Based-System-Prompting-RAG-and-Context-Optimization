@@ -1,0 +1,227 @@
+[
+{
+  "id": "DSA_Q01",
+  "document": "DSA",
+  "category": "Definition",
+  "question": "What is a 'hosting service' under the Regulation?",
+  "article": "Article 3(g)",
+  "answer_text": "a 'hosting' service, consisting of the storage of information provided by, and at the request of, a recipient of the service;",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DSA_Q02",
+  "document": "DSA",
+  "category": "Definition",
+  "question": "What is an 'online platform'?",
+  "article": "Article 3(i)",
+  "answer_text": "'online platform' means a hosting service that, at the request of a recipient of the service, stores and disseminates information to the public, unless that activity is a minor and purely ancillary feature of another service or a minor functionality of the principal service and, for objective and technical reasons, cannot be used without that other service, and the integration of the feature or functionality into the other service is not a means to circumvent the applicability of this Regulation;",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DSA_Q03",
+  "document": "DSA",
+  "category": "Definition",
+  "question": "What is 'illegal content'?",
+  "article": "Article 3(h)",
+  "answer_text": "'illegal content' means any information that, in itself or in relation to an activity, including the sale of products or the provision of services, is not in compliance with Union law or the law of any Member State which is in compliance with Union law, irrespective of the precise subject matter or nature of that law;",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DSA_Q04",
+  "document": "DSA",
+  "category": "Definition",
+  "question": "What is an 'active recipient of an online platform'?",
+  "article": "Article 3(p)",
+  "answer_text": "'active recipient of an online platform' means a recipient of the service that has engaged with an online platform by either requesting the online platform to host information or being exposed to information hosted by the online platform and disseminated through its online interface;",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DSA_Q05",
+  "document": "DSA",
+  "category": "Obligation",
+  "question": "What must providers of intermediary services establish for the receipt of notices of illegal content?",
+  "article": "Article 16(1)",
+  "answer_text": "Providers of hosting services shall put mechanisms in place to allow any individual or entity to notify them of the presence on their service of specific items of information that the individual or entity considers to be illegal content. Those mechanisms shall be easy to access and user-friendly, and shall allow for the submission of notices exclusively by electronic means.",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DSA_Q06",
+  "document": "DSA",
+  "category": "Obligation",
+  "question": "What must online platforms provide regarding internal complaint-handling systems?",
+  "article": "Article 20(1)",
+  "answer_text": "Providers of online platforms shall provide recipients of the service, including individuals or entities that have submitted a notice, for a period of at least six months following the decision referred to in this paragraph, with access to an effective internal complaint-handling system that enables them to lodge complaints, electronically and free of charge, against the decision taken by the provider of the online platform upon the receipt of a notice or against the following decisions taken by the provider of the online platform on the grounds that the information provided by the recipients constitutes illegal content or is incompatible with its terms and conditions:(a) decisions whether or not to remove or disable access to or restrict visibility of the information;(b) decisions whether or not to suspend or terminate the provision of the service, in whole or in part, to the recipients;(c) decisions whether or not to suspend or terminate the recipients’ account;(d) decisions whether or not to suspend, terminate or otherwise restrict the ability to monetise information provided by the recipients.",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DSA_Q07",
+  "document": "DSA",
+  "category": "Obligation",
+  "question": "What obligation do very large online platforms have regarding risk assessment?",
+  "article": "Article 34(1)",
+  "answer_text": "Providers of very large online platforms and of very large online search engines shall diligently identify, analyse and assess any systemic risks in the Union stemming from the design or functioning of their service and its related systems, including algorithmic systems, or from the use made of their services.",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DSA_Q08",
+  "document": "DSA",
+  "category": "Obligation",
+  "question": "What transparency reporting obligation applies to providers of intermediary services?",
+  "article": "Article 15(1)",
+  "answer_text": "Providers of intermediary services shall make publicly available, in a machine-readable format and in an easily accessible manner, at least once a year, clear, easily comprehensible reports on any content moderation that they engaged in during the relevant period.",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DSA_Q09",
+  "document": "DSA",
+  "category": "Prohibition",
+  "question": "What type of targeted advertising is prohibited with respect to minors?",
+  "article": "Article 28(2)",
+  "answer_text": "Providers of online platform shall not present advertisements on their interface based on profiling as defined in Article 4, point (4), of Regulation (EU) 2016/679 using personal data of the recipient of the service when they are aware with reasonable certainty that the recipient of the service is a minor.",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DSA_Q10",
+  "document": "DSA",
+  "category": "Prohibition",
+  "question": "What advertising practice is prohibited regarding sensitive data?",
+  "article": "Article 26(3)",
+  "answer_text": "Providers of online platforms shall not present advertisements to recipients of the service based on profiling as defined in Article 4, point (4), of Regulation (EU) 2016/679 using special categories of personal data referred to in Article 9(1) of Regulation (EU) 2016/679.",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DSA_Q11",
+  "document": "DSA",
+  "category": "Prohibition",
+  "question": "What is prohibited regarding dark patterns?",
+  "article": "Article 25(1)",
+  "answer_text": "Providers of online platforms shall not design, organise or operate their online interfaces in a way that deceives or manipulates the recipients of their service or in a way that otherwise materially distorts or impairs the ability of the recipients of their service to make free and informed decisions.",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DSA_Q12",
+  "document": "DSA",
+  "category": "Prohibition",
+  "question": "What is prohibited concerning suspension decisions without statement of reasons?",
+  "article": "Article 17(1)",
+  "answer_text": "Providers of hosting services shall provide a clear and specific statement of reasons to any affected recipients of the service for any of the following restrictions imposed on the ground that the information provided by the recipient of the service is illegal content or incompatible with their terms and conditions:(a) any restrictions of the visibility of specific items of information provided by the recipient of the service, including removal of content, disabling access to content, or demoting content;(b) suspension, termination or other restriction of monetary payments;(c) suspension or termination of the provision of the service in whole or in part;(d) suspension or termination of the recipient of the service's account.",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DSA_Q13",
+  "document": "DSA",
+  "category": "Numerical threshold",
+  "question": "What is the threshold for designation as a very large online platform?",
+  "article": "Article 33(1)",
+  "answer_text": "45 million average monthly active recipients of the service in the Union",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DSA_Q14",
+  "document": "DSA",
+  "category": "Numerical threshold",
+  "question": "What is the maximum fine that may be imposed for infringements?",
+  "article": "Article 52(3)",
+  "answer_text": "fines not exceeding 6 % of the annual worldwide turnover of the provider of intermediary services concerned in the preceding financial year",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DSA_Q15",
+  "document": "DSA",
+  "category": "Numerical threshold",
+  "question": "Within how many months must very large online platforms comply after designation?",
+  "article": "Article 33(6)",
+  "answer_text": "four months after its notification of the decision referred to in paragraph 4",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DSA_Q16",
+  "document": "DSA",
+  "category": "Numerical threshold",
+  "question": "How often must transparency reports be published?",
+  "article": "Article 15(1)",
+  "answer_text": "at least once a year",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DSA_Q17",
+  "document": "DSA",
+  "category": "Cross-reference",
+  "question": "Which Regulation is referenced in the definition of profiling for advertising purposes?",
+  "article": "Article 26(3)",
+  "answer_text": "Article 9(1) of Regulation (EU) 2016/679",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DSA_Q18",
+  "document": "DSA",
+  "category": "Cross-reference",
+  "question": "Which Chapter establishes due diligence obligations?",
+  "article": "Chapter III",
+  "answer_text": "Due diligence obligations for a transparent and safe online environment",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DSA_Q19",
+  "document": "DSA",
+  "category": "Cross-reference",
+  "question": "Which Article defines systemic risks?",
+  "article": "Article 34",
+  "answer_text": "Very large online platforms shall diligently identify, analyse and assess any systemic risks...",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DSA_Q20",
+  "document": "DSA",
+  "category": "Cross-reference",
+  "question": "Which Regulation is referenced in relation to personal data protection?",
+  "article": "Recital and Article references",
+  "answer_text": "Regulation (EU) 2016/679",
+  "start_char": null,
+  "end_char": null
+}
+]
+
+
+
+
+
+

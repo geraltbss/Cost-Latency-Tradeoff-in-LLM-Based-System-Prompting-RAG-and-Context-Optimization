@@ -1,0 +1,221 @@
+[
+{
+  "id": "DMA_Q01",
+  "document": "DMA",
+  "category": "Definition",
+  "question": "What is a 'gatekeeper' under the Regulation?",
+  "article": "Article 3(1)",
+  "answer_text": "An undertaking shall be designated as a gatekeeper if:(a) it has a significant impact on the internal market;(b) it provides a core platform service which is an important gateway for business users to reach end users; and(c) it enjoys an entrenched and durable position, in its operations, or it is foreseeable that it will enjoy such a position in the near future.",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DMA_Q02",
+  "document": "DMA",
+  "category": "Definition",
+  "question": "What is a 'core platform service'?",
+  "article": "Article 2(2)",
+  "answer_text": "'core platform service' means any of the following:(a) online intermediation services;(b) online search engines;(c) online social networking services;(d) video-sharing platform services;(e) number-independent interpersonal communications services;(f) operating systems;(g) web browsers;(h) virtual assistants;(i) cloud computing services;(j) online advertising services, including any advertising networks, advertising exchanges and any other advertising intermediation services, provided by an undertaking that provides any of the core platform services listed in points (a) to (i);",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DMA_Q03",
+  "document": "DMA",
+  "category": "Definition",
+  "question": "What is a 'business user'?",
+  "article": "Article 2(21)",
+  "answer_text": "'business user' means any natural or legal person acting in a commercial or professional capacity using core platform services for the purpose of or in the course of providing goods or services to end users;",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DMA_Q04",
+  "document": "DMA",
+  "category": "Definition",
+  "question": "What is an 'end user'?",
+  "article": "Article 2(20)",
+  "answer_text": "'end user' means any natural or legal person using core platform services other than as a business user;",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DMA_Q05",
+  "document": "DMA",
+  "category": "Obligation",
+  "question": "What must a gatekeeper obtain before combining personal data from different services?",
+  "article": "Article 5(2)",
+  "answer_text": "the gatekeeper shall present the end user with the specific choice and obtain their consent within the meaning of Regulation (EU) 2016/679.",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DMA_Q06",
+  "document": "DMA",
+  "category": "Obligation",
+  "question": "What must a gatekeeper allow regarding interoperability of number-independent interpersonal communications services?",
+  "article": "Article 7(1)",
+  "answer_text": "Where a gatekeeper provides number-independent interpersonal communications services that are listed in the designation decision pursuant to Article 3(9), it shall make the basic functionalities of its number-independent interpersonal communications services interoperable with the number-independent interpersonal communications services of another provider offering or intending to offer such services in the Union, by providing the necessary technical interfaces or similar solutions that facilitate interoperability, upon request, and free of charge.",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DMA_Q07",
+  "document": "DMA",
+  "category": "Obligation",
+  "question": "What access must a gatekeeper provide to business users regarding data?",
+  "article": "Article 6(10)",
+  "answer_text": "The gatekeeper shall provide business users and third parties authorised by a business user, at their request, free of charge, with effective, high-quality, continuous and real-time access to, and use of, aggregated and non-aggregated data, including personal data, that is provided for or generated in the context of the use of the relevant core platform services or services provided together with, or in support of, the relevant core platform services by those business users and the end users engaging with the products or services provided by those business users. With regard to personal data, the gatekeeper shall provide for such access to, and use of, personal data only where the data are directly connected with the use effectuated by the end users in respect of the products or services offered by the relevant business user through the relevant core platform service, and when the end users opt in to such sharing by giving their consent.",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DMA_Q08",
+  "document": "DMA",
+  "category": "Obligation",
+  "question": "What must gatekeepers submit to demonstrate compliance?",
+  "article": "Article 11(1)",
+  "answer_text": "Within 6 months after its designation pursuant to Article 3, and in accordance with Article 3(10), the gatekeeper shall provide the Commission with a report describing in a detailed and transparent manner the measures it has implemented to ensure compliance with the obligations laid down in Articles 5, 6 and 7.",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DMA_Q09",
+  "document": "DMA",
+  "category": "Prohibition",
+  "question": "What is prohibited regarding ranking of services by gatekeepers?",
+  "article": "Article 6(5)",
+  "answer_text": "The gatekeeper shall not treat more favourably, in ranking and related indexing and crawling, services and products offered by the gatekeeper itself than similar services or products of a third party. The gatekeeper shall apply transparent, fair and non-discriminatory conditions to such ranking.",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DMA_Q10",
+  "document": "DMA",
+  "category": "Prohibition",
+  "question": "What is prohibited regarding business users offering products outside the gatekeeper's platform?",
+  "article": "Article 5(3)",
+  "answer_text": "The gatekeeper shall not prevent business users from offering the same products or services to end users through third-party online intermediation services or through their own direct online sales channel at prices or conditions that are different from those offered through the online intermediation services of the gatekeeper.",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DMA_Q11",
+  "document": "DMA",
+  "category": "Prohibition",
+  "question": "What is prohibited regarding tying of core platform services?",
+  "article": "Article 5(8)",
+  "answer_text": "The gatekeeper shall not require business users or end users to subscribe to, or register with, any further core platform services listed in the designation decision pursuant to Article 3(9) or which meet the thresholds in Article 3(2), point (b), as a condition for being able to use, access, sign up for or registering with any of that gatekeeper’s core platform services listed pursuant to that Article.",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DMA_Q12",
+  "document": "DMA",
+  "category": "Prohibition",
+  "question": "What is prohibited regarding communication between business users and end users?",
+  "article": "Article 5(4)",
+  "answer_text": "The gatekeeper shall allow business users, free of charge, to communicate and promote offers, including under different conditions, to end users acquired via its core platform service or through other channels, and to conclude contracts with those end users, regardless of whether, for that purpose, they use the core platform services of the gatekeeper.",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DMA_Q13",
+  "document": "DMA",
+  "category": "Numerical threshold",
+  "question": "What annual Union turnover threshold is used for gatekeeper designation?",
+  "article": "Article 3(2)(a)",
+  "answer_text": "achieved an annual Union turnover equal to or above EUR 7.5 billion in each of the last three financial years...",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DMA_Q14",
+  "document": "DMA",
+  "category": "Numerical threshold",
+  "question": "What market capitalisation threshold is used for designation?",
+  "article": "Article 3(2)(a)",
+  "answer_text": "as regards paragraph 1, point (a), where it achieves an annual Union turnover equal to or above EUR 7,5 billion in each of the last three financial years, or where its average market capitalisation or its equivalent fair market value amounted to at least EUR 75 billion in the last financial year, and it provides the same core platform service in at least three Member States;",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DMA_Q15",
+  "document": "DMA",
+  "category": "Numerical threshold",
+  "question": "What number of monthly active end users is required for designation?",
+  "article": "Article 3(2)(b)",
+  "answer_text": "as regards paragraph 1, point (b), where it provides a core platform service that in the last financial year has at least 45 million monthly active end users established or located in the Union and at least 10 000yearly active business users established in the Union, identified and calculated in accordance with the methodology and indicators set out in the Annex;",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DMA_Q16",
+  "document": "DMA",
+  "category": "Numerical threshold",
+  "question": "What is the maximum fine for non-compliance?",
+  "article": "Article 30(1)",
+  "answer_text": "fines not exceeding 10 % of the total worldwide annual turnover of the undertaking concerned in the preceding financial year.",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DMA_Q17",
+  "document": "DMA",
+  "category": "Cross-reference",
+  "question": "Which Articles lay down the obligations for gatekeepers?",
+  "article": "Articles 5, 6 and 7",
+  "answer_text": "Articles 5, 6 and 7",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DMA_Q18",
+  "document": "DMA",
+  "category": "Cross-reference",
+  "question": "Which Regulation is referenced regarding consent for personal data?",
+  "article": "Article 5(2)",
+  "answer_text": "Regulation (EU) 2016/679",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DMA_Q19",
+  "document": "DMA",
+  "category": "Cross-reference",
+  "question": "Which Article allows the Commission to open market investigations?",
+  "article": "Article 17",
+  "answer_text": "The Commission may conduct a market investigation...",
+  "start_char": null,
+  "end_char": null
+},
+
+{
+  "id": "DMA_Q20",
+  "document": "DMA",
+  "category": "Cross-reference",
+  "question": "Which Article provides for remedies in case of systematic non-compliance?",
+  "article": "Article 18",
+  "answer_text": "Where the Commission finds that a gatekeeper has systematically infringed...",
+  "start_char": null,
+  "end_char": null
+}
+]
