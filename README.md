@@ -66,7 +66,7 @@ This project answers:
 
 ---
 
-## 📚 Dataset
+## Dataset
 
 - 5 EU Regulatory Documents:
   - GDPR
