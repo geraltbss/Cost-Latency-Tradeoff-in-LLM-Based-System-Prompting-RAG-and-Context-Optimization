@@ -1,0 +1,602 @@
+[
+  {
+    "qa_id": "AIACT_Q01",
+    "question": "What is an 'AI system' under the Regulation?",
+    "prediction": "Under REGULATION (EU) 2024/1689, an 'AI system' is defined as:\n\n\"a machine-based system that is designed to operate with varying levels of autonomy and that may exhibit adaptiveness after deployment, and that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments.\"",
+    "gold_answer": "'AI system' means a machine-based system that is designed to operate with varying levels of autonomy and that may exhibit adaptiveness after deployment, and that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments;"
+  },
+  {
+    "qa_id": "AIACT_Q02",
+    "question": "What is a 'provider' of an AI system?",
+    "prediction": "Based on the provided context, the definition of a 'provider' of an AI system is not explicitly stated. The text mentions \"providers of AI systems\" in several paragraphs (e.g., 21, 22, 23, 24, 29, 46) in relation to their obligations and the scope of the regulation, but it does not provide a direct definition of the term itself.",
+    "gold_answer": "'provider' means a natural or legal person, public authority, agency or other body that develops an AI system or a general-purpose AI model or that has an AI system or a general-purpose AI model developed and places it on the market or puts the AI system into service under its own name or trademark, whether for payment or free of charge;"
+  },
+  {
+    "qa_id": "AIACT_Q03",
+    "question": "What is a 'high-risk AI system'?",
+    "prediction": "An AI system is considered 'high-risk' if it meets either of the following criteria:\n\n",
+    "gold_answer": "Irrespective of whether an AI system is placed on the market or put into service independently of the products referred to in points (a) and (b), that AI system shall be considered to be high-risk where both of the following conditions are fulfilled:(a) the AI system is intended to be used as a safety component of a product, or the AI system is itself a product, covered by the Union harmonisation legislation listed in Annex I;(b) the product whose safety component pursuant to point (a) is the AI system, or the AI system itself as a product, is required to undergo a third-party conformity assessment, with a view to the placing on the market or the putting into service of that product pursuant to the Union harmonisation legislation listed in Annex I."
+  },
+  {
+    "qa_id": "AIACT_Q04",
+    "question": "What is a 'deployer'?",
+    "prediction": "The notion of 'deployer' should be interpreted as any natural or legal person, including a public authority, agency or other body, using an AI system under its authority, except where the AI system is used in the course of a personal non-professional activity.",
+    "gold_answer": "'deployer' means a natural or legal person, public authority, agency or other body using an AI system under its authority except where the AI system is used in the course of a personal non-professional activity;"
+  },
+  {
+    "qa_id": "AIACT_Q05",
+    "question": "What must providers establish for high-risk AI systems?",
+    "prediction": "Providers must establish a **risk-management system** for high-risk AI systems.",
+    "gold_answer": "A risk management system shall be established, implemented, documented and maintained in relation to high-risk AI systems."
+  },
+  {
+    "qa_id": "AIACT_Q06",
+    "question": "What must providers draw up before placing a high-risk AI system on the market?",
+    "prediction": "Based on the provided context, before placing a high-risk AI system on the market",
+    "gold_answer": "The technical documentation of a high-risk AI system shall be drawn up before that system is placed on the market or put into service and shall be kept up-to date."
+  },
+  {
+    "qa_id": "AIACT_Q07",
+    "question": "What must high-risk AI systems be designed to enable regarding oversight?",
+    "prediction": "High-risk AI systems must be designed and developed in such a way, including with appropriate human",
+    "gold_answer": "High-risk AI systems shall be designed and developed in such a way, including with appropriate human-machine interface tools, that they can be effectively overseen by natural persons during the period in which they are in use."
+  },
+  {
+    "qa_id": "AIACT_Q08",
+    "question": "What must providers ensure when an AI system interacts with natural persons?",
+    "prediction": "According to Article 50(1) of the Regulation, providers must ensure that AI systems intended to interact directly with natural persons are designed and developed in such a way that the natural persons concerned are informed that they are interacting with an AI system.\n\nThis obligation does not apply if:\n*   It is obvious from the point of view of a reasonably well-informed, observant, and circumspect natural person, taking into account the circumstances and context of use.\n*   The AI system is authorized by law to detect, prevent, investigate, or prosecute criminal offenses, subject to appropriate safeguards for third parties' rights and freedoms, unless those systems are available for the public to report a criminal offense",
+    "gold_answer": "Providers shall ensure that AI systems intended to interact directly with natural persons are designed and developed in such a way that the natural persons concerned are informed that they are interacting with an AI system, unless this is obvious from the point of view of a natural person who is reasonably well-informed, observant and circumspect, taking into account the circumstances and the context of use. This obligation shall not apply to AI systems authorised by law to detect, prevent, investigate or prosecute criminal offences, subject to appropriate safeguards for the rights and freedoms of third parties, unless those systems are available for the public to report a criminal offence."
+  },
+  {
+    "qa_id": "AIACT_Q09",
+    "question": "What is prohibited regarding social scoring?",
+    "prediction": "Regarding social scoring, the **Regulation (EU) 2024/1",
+    "gold_answer": "the placing on the market, the putting into service or the use of AI systems for the evaluation or classification of natural persons or groups of persons over a certain period of time based on their social behaviour or known, inferred or predicted personal or personality characteristics"
+  },
+  {
+    "qa_id": "AIACT_Q10",
+    "question": "What is prohibited regarding real-time remote biometric identification in publicly accessible spaces?",
+    "prediction": "The use of 'real-time' remote biometric identification systems in publicly accessible spaces for the purposes of law enforcement is prohibited, **unless** it is strictly necessary for one of the following objectives:\n\n1.  **Targeted search for specific victims:** This includes victims of abduction, trafficking in human beings, sexual exploitation, or missing persons.\n2.  **Prevention of specific threats:** This covers preventing a specific, substantial, and imminent threat to the life or physical safety of natural persons, or a genuine and present or foreseeable threat of a terrorist attack.\n3.  **Localization or identification of criminal suspects:** This applies to persons suspected of having committed criminal offenses listed in Annex II, where those offenses are punishable in the Member State concerned by a custodial sentence or a detention order for a maximum period of at",
+    "gold_answer": "the placing on the market, the putting into service for this specific purpose, or the use of an AI system for making risk assessments of natural persons in order to assess or predict the risk of a natural person committing a criminal offence, based solely on the profiling of a natural person or on assessing their personality traits and characteristics; this prohibition shall not apply to AI systems used to support the human assessment of the involvement of a person in a criminal activity, which is already based on objective and verifiable facts directly linked to a criminal activity;"
+  },
+  {
+    "qa_id": "AIACT_Q11",
+    "question": "What is prohibited regarding subliminal techniques?",
+    "prediction": "Based on the provided text, Article 5(1)(a) states that the following AI practice is prohibited:\n\n\"the placing on the market, the putting into service or the use of an AI system that deploys subliminal techniques beyond a person\u2019s consciousness or purposefully manipulative or deceptive techniques, with the objective, or the effect of materially distorting the behaviour of a person or a group of persons by appreciably impairing their ability to make an informed decision, thereby causing them to take a decision that they would not have otherwise",
+    "gold_answer": "the placing on the market, the putting into service or the use of an AI system that deploys subliminal techniques beyond a person\u2019s consciousness or purposefully manipulative or deceptive techniques, with the objective, or the effect of materially distorting the behaviour of a person or a group of persons by appreciably impairing their ability to make an informed decision, thereby causing them to take a decision that they would not have otherwise taken in a manner that causes or is reasonably likely to cause that person, another person or group of persons significant harm;"
+  },
+  {
+    "qa_id": "AIACT_Q12",
+    "question": "What is prohibited regarding exploitation of vulnerabilities?",
+    "prediction": "The placing on the market, the putting into service, or the use of an AI system that exploits any of the vulnerabilities of a natural person or a specific group of persons due to their age, disability, or a specific social or economic situation, is prohibited. This is prohibited when the objective or effect is to materially distort the behaviour of that person or group in a manner that causes or is reasonably likely to cause that person or another person significant harm.",
+    "gold_answer": "the placing on the market, the putting into service or the use of an AI system that exploits any of the vulnerabilities of a natural person or a specific group of persons due to their age, disability or a specific social or economic situation, with the objective, or the effect, of materially distorting the behaviour of that person or a person belonging to that group in a manner that causes or is reasonably likely to cause that person or another person significant harm;"
+  },
+  {
+    "qa_id": "AIACT_Q13",
+    "question": "What is the maximum administrative fine for prohibited AI practices?",
+    "prediction": "I am sorry, but the provided context does not contain information about the maximum administrative fine for prohibited AI practices. The text covers articles related to fundamental rights impact assessments, notifying authorities, notified bodies, standards, and conformity assessment, but it does not specify penalties or fines.",
+    "gold_answer": "administrative fines up to 35 000 000 EUR or, if the offender is an undertaking, up to 7 % of its total worldwide annual turnover"
+  },
+  {
+    "qa_id": "AIACT_Q14",
+    "question": "What is the lower administrative fine tier for incorrect information?",
+    "prediction": "Based on the provided context, there is no information regarding administrative fine tiers for incorrect information. The text covers topics such as deployer obligations, fundamental rights impact assessments, and the procedures and requirements for notifying authorities and notified bodies. It does not detail administrative fines.",
+    "gold_answer": "administrative fines up to 7 500 000 EUR or, if the offender is an undertaking, up to 1 % of its total worldwide annual turnover"
+  },
+  {
+    "qa_id": "AIACT_Q15",
+    "question": "What turnover percentage applies to SMEs for certain fines?",
+    "prediction": "Based on the provided context, there is no mention of a specific turnover percentage that applies to SMEs",
+    "gold_answer": "For SMEs, including start-ups, each fine shall be subject to the lower of the two amounts"
+  },
+  {
+    "qa_id": "AIACT_Q16",
+    "question": "How long must providers retain documentation for high-risk AI systems?",
+    "prediction": "Based on the provided context, there is no information specifying how long providers must retain documentation for high-risk AI systems. The text mentions that the AI Office can request documentation and information, and refers to \"technical documentation\" in several places, but does not state a retention period.",
+    "gold_answer": "Providers shall keep the documentation at the disposal of the national competent authorities for a period of 10 years after the high-risk AI system has been placed on the market or put into service."
+  },
+  {
+    "qa_id": "AIACT_Q17",
+    "question": "Where are the use cases listed that determine high-risk AI systems?",
+    "prediction": "The use cases that determine high-risk AI systems are listed in **Annex III**.",
+    "gold_answer": "Annex III"
+  },
+  {
+    "qa_id": "AIACT_Q18",
+    "question": "Which Regulation is referenced regarding personal data protection?",
+    "prediction": "The Regulation referenced regarding personal data protection is **Regulation (EU) 2016/679** and **Regulation (EU) 2018/1725** of the European Parliament and of the Council.",
+    "gold_answer": "Regulation (EU) 2016/679"
+  },
+  {
+    "qa_id": "AIACT_Q19",
+    "question": "Which Articles govern conformity assessment procedures?",
+    "prediction": "The conformity assessment procedures are primarily governed by **Article 43** of the Regulation.\n\nAdditionally",
+    "gold_answer": "Conformity assessment procedures are governed by Article 43, Annex VI, and Annex VII"
+  },
+  {
+    "qa_id": "AIACT_Q20",
+    "question": "Which Article governs CE marking of high-risk AI systems?",
+    "prediction": "Article 16, point (h) states that providers of high-risk AI systems shall \"affix the CE marking to the high-risk AI system or, where that is not possible, on its packaging or its accompanying documentation, to indicate conformity with this Regulation, in accordance with **Article 49**.\"",
+    "gold_answer": "Article 49"
+  },
+  {
+    "qa_id": "DGA_Q01",
+    "question": "What is a 'data sharing' means?",
+    "prediction": "According to the provided context, 'data sharing' means:\n\nThe provision of data by a data subject or a data holder to a data user for the purpose of the joint or individual use of such data, based on voluntary agreements or Union or national law, directly or through an intermediary, for example under open or commercial licences subject to a fee or free of charge.",
+    "gold_answer": "'data sharing' means the provision of data by a data subject or a data holder to a data user for the purpose of the joint or individual use of such data, based on voluntary agreements or Union or national law, directly or through an intermediary, for example under open or commercial licences subject to a fee or free of charge;"
+  },
+  {
+    "qa_id": "DGA_Q02",
+    "question": "What is a 'data holder'?",
+    "prediction": "According to Article 2, point (8) of the provided text, a 'data holder' means:\n\n\"a legal person, including public sector bodies and international organisations, or a natural person who is not a data subject with respect to the specific data in question, which, in accordance with applicable Union or national law, has the right to grant access to or to share certain personal data or non-personal data.\"",
+    "gold_answer": "'data holder' means a legal person, including public sector bodies and international organisations, or a natural person who is not a data subject with respect to the specific data in question, which, in accordance with applicable Union or national law, has the right to grant access to or to share certain personal data or non-personal data;"
+  },
+  {
+    "qa_id": "DGA_Q03",
+    "question": "What is a 'data user'?",
+    "prediction": "According to Article 2, point (9) of the provided Regulation, a 'data user' means a natural or legal person who has lawful access to certain personal or non-personal data and has the right, including under Regulation (EU) 2016/679 in the case of personal data, to use that data for commercial or non-commercial purposes.",
+    "gold_answer": "'data user' means a natural or legal person who has lawful access to certain personal or non-personal data and has the right, including under Regulation (EU) 2016/679 in the case of personal data, to use that data for commercial or non- commercial purposes;"
+  },
+  {
+    "qa_id": "DGA_Q04",
+    "question": "What is 'data altruism'?",
+    "prediction": "According to Article 2, point (16) of the provided context, 'data altruism' means:\n\n\"the voluntary sharing of data on the basis of the consent of data subjects to process personal data pertaining to them, or permissions of data holders to allow the use of their non-personal data without seeking or receiving a reward that goes beyond compensation related to the costs that they incur where they make their data available for objectives of general interest as provided for in national law, where applicable, such as healthcare, combating climate change, improving mobility, facilitating the development, production and dissemination of official statistics, improving the provision of public services, public policy making or scientific research purposes in the general interest.\"",
+    "gold_answer": "'data altruism' means the voluntary sharing of data on the basis of the consent of data subjects to process personal data pertaining to them, or permissions of data holders to allow the use of their non-personal data without seeking or receiving a reward that goes beyond compensation related to the costs that they incur where they make their data available for objectives of general interest as provided for in national law, where applicable, such as healthcare, combating climate change, improving mobility, facilitating the development, production and dissemination of official statistics, improving the provision of public services, public policy making or scientific research purposes in the general interest;"
+  },
+  {
+    "qa_id": "DGA_Q05",
+    "question": "What must providers of data intermediation services submit before starting activities?",
+    "prediction": "Before starting activities, providers of data intermediation services must submit a **notification** to the competent authority for data intermediation services.",
+    "gold_answer": "Any data intermediation services provider who intends to provide the data intermediation services referred to in Article 10 shall submit a notification to the competent authority for data intermediation services."
+  },
+  {
+    "qa_id": "DGA_Q06",
+    "question": "What must data intermediation service providers ensure regarding neutrality?",
+    "prediction": "Data intermediation service providers must ensure the following regarding neutrality:\n\n1.  **Commercial Terms:**",
+    "gold_answer": "Providers of data intermediation services shall act in a neutral manner with regard to the data exchanged between data holders and data users."
+  },
+  {
+    "qa_id": "DGA_Q07",
+    "question": "What must public sector bodies ensure when granting re-use of certain data?",
+    "prediction": "When granting re-use of certain categories of data (commercial confidentiality, statistical",
+    "gold_answer": "Public sector bodies which are competent under national law to grant or refuse access for the re-use of one or more of the categories of data referred to in Article 3(1) shall make publicly available the conditions for allowing such re-use and the procedure to request the re-use via the single information point referred to in Article 8. Where they grant or refuse access for re-use, they may be assisted by the competent bodies referred to in Article 7(1)."
+  },
+  {
+    "qa_id": "DGA_Q08",
+    "question": "What must recognised data altruism organisations do to be registered?",
+    "prediction": "To be registered in a public national register of recognised data altruism organisations, an entity",
+    "gold_answer": "Entities that meet the requirements laid down in this Chapter may apply for registration in the public national register of recognised data altruism organisations."
+  },
+  {
+    "qa_id": "DGA_Q09",
+    "question": "What is prohibited regarding the use of data by data intermediation service providers?",
+    "prediction": "Based on the provided context, a data intermediation services provider is prohibited from using",
+    "gold_answer": "Providers of data intermediation services shall not use the data for purposes other than putting them at the disposal of data users."
+  },
+  {
+    "qa_id": "DGA_Q10",
+    "question": "What is prohibited regarding conflicts of interest for data intermediation service providers?",
+    "prediction": "Based on the provided context, the following are prohibited regarding conflicts of interest for data intermediation",
+    "gold_answer": "Providers of data intermediation services shall not favour their own services or the services of related entities."
+  },
+  {
+    "qa_id": "DGA_Q11",
+    "question": "What is prohibited regarding exclusive arrangements for re-use of public sector data?",
+    "prediction": "Based on the provided context, there is no information stating what is prohibited regarding exclusive arrangements",
+    "gold_answer": "Exclusive arrangements for the re-use of protected data shall be prohibited."
+  },
+  {
+    "qa_id": "DGA_Q12",
+    "question": "What is prohibited regarding the use of the 'European data altruism organisation recognised in the Union' label?",
+    "prediction": "A recognised data altruism organisation is prohibited from using the label 'data altruism organisation recognised in the Union' in any written and spoken communication if it does not comply with one or more of the requirements of Chapter IV, even after having been notified by the competent authority for the registration of data altruism organisations.",
+    "gold_answer": "Only organisations registered in the public national register shall use the label 'European data altruism organisation recognised in the Union'."
+  },
+  {
+    "qa_id": "DGA_Q13",
+    "question": "What costs may public sector bodies charge for re-use of data?",
+    "prediction": "Public sector bodies may charge fees for re-use of data, which must be derived from the costs related to conducting the procedure for requests for re-use and limited to the necessary costs in relation to:\n\n*   The reproduction, provision, and dissemination of data.\n*   The clearance of rights.\n*   Anonymisation or other forms of preparation of personal data and commercially confidential data.\n*   The maintenance of the secure processing environment.\n*   The acquisition of the right to allow re-use by third parties outside the public sector.\n*   Assisting re-users in seeking consent from data subjects and permission from data holders whose rights and interests may be affected by such re-use.",
+    "gold_answer": "Public sector bodies may charge fees for allowing the re-use of protected data."
+  },
+  {
+    "qa_id": "DGA_Q14",
+    "question": "What is the maximum duration of exclusive arrangements where exceptionally permitted?",
+    "prediction": "Based on the provided context, there is no mention of a maximum duration for exclusive arrangements where they are exceptionally permitted. The text primarily focuses on defining what constitutes data intermediation services, what is excluded from that definition, and the requirements for such services, including promoting neutrality and competition.",
+    "gold_answer": "The duration of such an exclusive arrangement shall not exceed 12 months."
+  },
+  {
+    "qa_id": "DGA_Q15",
+    "question": "Within what period must the competent authority assess the notification of a data intermediation service provider?",
+    "prediction": "Based on the provided context, there is no information regarding the specific period within which a competent authority must assess the notification of a data intermediation service provider. The text mentions that such providers can be \"recognised in the Union\" and may be subject to \"specific additional technical, administrative or organisational requirements, including through an authorisation or certification regime,\" but it does not specify a timeframe for the assessment process.",
+    "gold_answer": "The competent authority shall assess the notification within one week."
+  },
+  {
+    "qa_id": "DGA_Q16",
+    "question": "What must Member States lay down regarding penalties?",
+    "prediction": "Member States must lay down the rules on penalties applicable to infringements of the following obligations:\n*   Transfers of non-personal data to third countries (pursuant to Article 5",
+    "gold_answer": "Member States shall lay down the rules on penalties applicable to infringements of this Regulation."
+  },
+  {
+    "qa_id": "DGA_Q17",
+    "question": "Which Regulation is referenced regarding personal data protection?",
+    "prediction": "The Regulation referenced regarding personal data protection is **Regulation (EU) 2016/679",
+    "gold_answer": "Regulation (EU) 2016/679"
+  },
+  {
+    "qa_id": "DGA_Q18",
+    "question": "Which Directive is referenced regarding open data and public sector information?",
+    "prediction": "The Directive referenced regarding open data and public sector information is **Directive (EU) 2019/1024 of the European Parliament and of the Council of 20 June 2019 on open data and the re-use of public sector information**.",
+    "gold_answer": "Directive (EU) 2019/1024"
+  },
+  {
+    "qa_id": "DGA_Q19",
+    "question": "Which Chapter governs re-use of certain protected data held by public sector bodies?",
+    "prediction": "Chapter II governs the re-use of certain categories of protected data held by public sector bodies.",
+    "gold_answer": "Chapter II Re-use of certain categories of protected data held by public sector bodies"
+  },
+  {
+    "qa_id": "DGA_Q20",
+    "question": "Which Chapter governs data altruism?",
+    "prediction": "Chapter IV governs data altruism.",
+    "gold_answer": "Chapter IV Data altruism"
+  },
+  {
+    "qa_id": "DMA_Q01",
+    "question": "What is a 'gatekeeper' under the Regulation?",
+    "prediction": "Based on the provided context, a 'gatekeeper' is an **undertaking providing core",
+    "gold_answer": "An undertaking shall be designated as a gatekeeper if:(a) it has a significant impact on the internal market;(b) it provides a core platform service which is an important gateway for business users to reach end users; and(c) it enjoys an entrenched and durable position, in its operations, or it is foreseeable that it will enjoy such a position in the near future."
+  },
+  {
+    "qa_id": "DMA_Q02",
+    "question": "What is a 'core platform service'?",
+    "prediction": "According to the provided context (Regulation (EU) 2022/1925, Article 2, point 2), a 'core platform service' means any of the following:\n\n*   online intermediation services\n*   online search engines\n*   online social networking services\n*   video-sharing platform services\n*   number-independent interpersonal communications services\n*   operating systems\n*   web browsers\n*   virtual assistants\n*   cloud computing services\n*   online advertising services, including any advertising networks, advertising exchanges, and any other advertising intermediation services, provided by an undertaking that also provides any of the other core platform services listed above.",
+    "gold_answer": "'core platform service' means any of the following:(a) online intermediation services;(b) online search engines;(c) online social networking services;(d) video-sharing platform services;(e) number-independent interpersonal communications services;(f) operating systems;(g) web browsers;(h) virtual assistants;(i) cloud computing services;(j) online advertising services, including any advertising networks, advertising exchanges and any other advertising intermediation services, provided by an undertaking that provides any of the core platform services listed in points (a) to (i);"
+  },
+  {
+    "qa_id": "DMA_Q03",
+    "question": "What is a 'business user'?",
+    "prediction": "A 'business user' is defined as any natural or legal person acting in a commercial or professional capacity using core platform services for the purpose of or in the course of providing goods or services to end users.",
+    "gold_answer": "'business user' means any natural or legal person acting in a commercial or professional capacity using core platform services for the purpose of or in the course of providing goods or services to end users;"
+  },
+  {
+    "qa_id": "DMA_Q04",
+    "question": "What is an 'end user'?",
+    "prediction": "An 'end user' is defined as any natural or legal person using core platform services other than as a business user.",
+    "gold_answer": "'end user' means any natural or legal person using core platform services other than as a business user;"
+  },
+  {
+    "qa_id": "DMA_Q05",
+    "question": "What must a gatekeeper obtain before combining personal data from different services?",
+    "prediction": "Based on the provided context, a gatekeeper must obtain **consent** from the end user before",
+    "gold_answer": "the gatekeeper shall present the end user with the specific choice and obtain their consent within the meaning of Regulation (EU) 2016/679."
+  },
+  {
+    "qa_id": "DMA_Q06",
+    "question": "What must a gatekeeper allow regarding interoperability of number-independent interpersonal communications services?",
+    "prediction": "According to Article 7 of the Regulation (EU) 202",
+    "gold_answer": "Where a gatekeeper provides number-independent interpersonal communications services that are listed in the designation decision pursuant to Article 3(9), it shall make the basic functionalities of its number-independent interpersonal communications services interoperable with the number-independent interpersonal communications services of another provider offering or intending to offer such services in the Union, by providing the necessary technical interfaces or similar solutions that facilitate interoperability, upon request, and free of charge."
+  },
+  {
+    "qa_id": "DMA_Q07",
+    "question": "What access must a gatekeeper provide to business users regarding data?",
+    "prediction": "Based on the provided context, a gatekeeper must provide business users with the following",
+    "gold_answer": "The gatekeeper shall provide business users and third parties authorised by a business user, at their request, free of charge, with effective, high-quality, continuous and real-time access to, and use of, aggregated and non-aggregated data, including personal data, that is provided for or generated in the context of the use of the relevant core platform services or services provided together with, or in support of, the relevant core platform services by those business users and the end users engaging with the products or services provided by those business users. With regard to personal data, the gatekeeper shall provide for such access to, and use of, personal data only where the data are directly connected with the use effectuated by the end users in respect of the products or services offered by the relevant business user through the relevant core platform service, and when the end users opt in to such sharing by giving their consent."
+  },
+  {
+    "qa_id": "DMA_Q08",
+    "question": "What must gatekeepers submit to demonstrate compliance?",
+    "prediction": "To demonstrate compliance, gatekeepers must submit the following:\n\n1.  **A report describing",
+    "gold_answer": "Within 6 months after its designation pursuant to Article 3, and in accordance with Article 3(10), the gatekeeper shall provide the Commission with a report describing in a detailed and transparent manner the measures it has implemented to ensure compliance with the obligations laid down in Articles 5, 6 and 7."
+  },
+  {
+    "qa_id": "DMA_Q09",
+    "question": "What is prohibited regarding ranking of services by gatekeepers?",
+    "prediction": "Based on the provided context, the Digital Markets Act prohibits gatekeepers from:\n\n",
+    "gold_answer": "The gatekeeper shall not treat more favourably, in ranking and related indexing and crawling, services and products offered by the gatekeeper itself than similar services or products of a third party. The gatekeeper shall apply transparent, fair and non-discriminatory conditions to such ranking."
+  },
+  {
+    "qa_id": "DMA_Q10",
+    "question": "What is prohibited regarding business users offering products outside the gatekeeper's platform?",
+    "prediction": "Based on the provided context, the specific obligations laid down in Articles 5, 6, and 7 are not detailed. Therefore, the context does not specify what is prohibited regarding business users offering products outside the gatekeeper's platform.\n\nThe provided text refers to these articles when discussing non-compliance (Article 18, Article 29, Article 30) and commitments (Article 25), but it does not list the content of the obligations themselves.",
+    "gold_answer": "The gatekeeper shall not prevent business users from offering the same products or services to end users through third-party online intermediation services or through their own direct online sales channel at prices or conditions that are different from those offered through the online intermediation services of the gatekeeper."
+  },
+  {
+    "qa_id": "DMA_Q11",
+    "question": "What is prohibited regarding tying of core platform services?",
+    "prediction": "Based on the provided context, the Digital Markets Act (Regulation (EU) 2",
+    "gold_answer": "The gatekeeper shall not require business users or end users to subscribe to, or register with, any further core platform services listed in the designation decision pursuant to Article 3(9) or which meet the thresholds in Article 3(2), point (b), as a condition for being able to use, access, sign up for or registering with any of that gatekeeper\u2019s core platform services listed pursuant to that Article."
+  },
+  {
+    "qa_id": "DMA_Q12",
+    "question": "What is prohibited regarding communication between business users and end users?",
+    "prediction": "Based on the provided context, gatekeepers are prohibited from:\n\n*   **Preventing business users from communicating and promoting offers** (including under different conditions) to end users acquired via the gatekeeper",
+    "gold_answer": "The gatekeeper shall allow business users, free of charge, to communicate and promote offers, including under different conditions, to end users acquired via its core platform service or through other channels, and to conclude contracts with those end users, regardless of whether, for that purpose, they use the core platform services of the gatekeeper."
+  },
+  {
+    "qa_id": "DMA_Q13",
+    "question": "What annual Union turnover threshold is used for gatekeeper designation?",
+    "prediction": "The annual Union turnover threshold used for gatekeeper designation is **EUR 7,5 billion in each of the last three financial years**.",
+    "gold_answer": "achieved an annual Union turnover equal to or above EUR 7.5 billion in each of the last three financial years..."
+  },
+  {
+    "qa_id": "DMA_Q14",
+    "question": "What market capitalisation threshold is used for designation?",
+    "prediction": "According to Article 3(2)(a) of the Regulation, an undertaking is presumed to have a significant impact on the internal market, and thus potentially be designated as a gatekeeper, if its average market capitalisation or its equivalent fair market value amounted to **at least EUR 75 billion in the last financial year**, and it provides the same core platform service in at least three Member States.",
+    "gold_answer": "as regards paragraph 1, point (a), where it achieves an annual Union turnover equal to or above EUR 7,5 billion in each of the last three financial years, or where its average market capitalisation or its equivalent fair market value amounted to at least EUR 75 billion in the last financial year, and it provides the same core platform service in at least three Member States;"
+  },
+  {
+    "qa_id": "DMA_Q15",
+    "question": "What number of monthly active end users is required for designation?",
+    "prediction": "For an undertaking to be presumed to satisfy the requirements for designation as a gatekeeper, it must provide a core platform service that in the last financial year has at least **45 million monthly active end users established or located in the Union**.",
+    "gold_answer": "as regards paragraph 1, point (b), where it provides a core platform service that in the last financial year has at least 45 million monthly active end users established or located in the Union and at least 10 000yearly active business users established in the Union, identified and calculated in accordance with the methodology and indicators set out in the Annex;"
+  },
+  {
+    "qa_id": "DMA_Q16",
+    "question": "What is the maximum fine for non-compliance?",
+    "prediction": "Based on the provided context, the maximum fine for non-compliance depends on the nature of the infringement",
+    "gold_answer": "fines not exceeding 10 % of the total worldwide annual turnover of the undertaking concerned in the preceding financial year."
+  },
+  {
+    "qa_id": "DMA_Q17",
+    "question": "Which Articles lay down the obligations for gatekeepers?",
+    "prediction": "The obligations for gatekeepers are laid down in **Articles 5, 6, and 7**.",
+    "gold_answer": "Articles 5, 6 and 7"
+  },
+  {
+    "qa_id": "DMA_Q18",
+    "question": "Which Regulation is referenced regarding consent for personal data?",
+    "prediction": "The Regulation referenced regarding consent for personal data is **Regulation (EU) 2016/679",
+    "gold_answer": "Regulation (EU) 2016/679"
+  },
+  {
+    "qa_id": "DMA_Q19",
+    "question": "Which Article allows the Commission to open market investigations?",
+    "prediction": "Based on the provided context, Article 12(1) states that delegated acts shall be based on a **market investigation pursuant to Article 17**. Therefore, Article 17 allows the Commission to open market investigations.",
+    "gold_answer": "Article 17"
+  },
+  {
+    "qa_id": "DMA_Q20",
+    "question": "Which Article provides for remedies in case of systematic non-compliance?",
+    "prediction": "Article 18 provides for remedies in case of systematic non-compliance. Specifically, Article 18(1) states that the Commission may adopt an implementing act imposing \"any behavioural or structural remedies\" on a gatekeeper found to have engaged in systematic non-compliance.",
+    "gold_answer": "Article 18"
+  },
+  {
+    "qa_id": "DSA_Q01",
+    "question": "What is a 'hosting service' under the Regulation?",
+    "prediction": "Under the Regulation, a 'hosting service' is defined as an intermediary service consisting of the storage of information provided by, and at the request of, a recipient of the service (Article 3, point (g)(iii)).",
+    "gold_answer": "a 'hosting' service, consisting of the storage of information provided by, and at the request of, a recipient of the service;"
+  },
+  {
+    "qa_id": "DSA_Q02",
+    "question": "What is an 'online platform'?",
+    "prediction": "An 'online platform' is defined as a hosting service that, at the request of a recipient of the service, stores and disseminates information to the public.\n\nHowever, this definition does not include activities where the dissemination to the public is merely a minor and purely ancillary feature of another service or a minor functionality of the principal service, provided that, for objective and technical reasons, it cannot be used without that other service, and its integration is not a means to circumvent the applicability of this Regulation.",
+    "gold_answer": "'online platform' means a hosting service that, at the request of a recipient of the service, stores and disseminates information to the public, unless that activity is a minor and purely ancillary feature of another service or a minor functionality of the principal service and, for objective and technical reasons, cannot be used without that other service, and the integration of the feature or functionality into the other service is not a means to circumvent the applicability of this Regulation;"
+  },
+  {
+    "qa_id": "DSA_Q03",
+    "question": "What is 'illegal content'?",
+    "prediction": "Based on the provided context, 'illegal content' is defined as:\n\n\"any information that,",
+    "gold_answer": "'illegal content' means any information that, in itself or in relation to an activity, including the sale of products or the provision of services, is not in compliance with Union law or the law of any Member State which is in compliance with Union law, irrespective of the precise subject matter or nature of that law;"
+  },
+  {
+    "qa_id": "DSA_Q04",
+    "question": "What is an 'active recipient of an online platform'?",
+    "prediction": "An 'active recipient of an online platform' means a recipient of the service that has engaged with an online platform by either requesting the online platform to host information or being exposed to information hosted by the online platform and disseminated through its online interface.",
+    "gold_answer": "'active recipient of an online platform' means a recipient of the service that has engaged with an online platform by either requesting the online platform to host information or being exposed to information hosted by the online platform and disseminated through its online interface;"
+  },
+  {
+    "qa_id": "DSA_Q05",
+    "question": "What must providers of intermediary services establish for the receipt of notices of illegal content?",
+    "prediction": "Providers of intermediary services, specifically **hosting services**, must establish **mechanisms** to allow any individual or entity to notify them of the presence of specific items of information considered to be illegal content on their service.\n\nThese mechanisms must be:\n*   **Easy to access**\n*   **User-friendly**\n*   Allow for the submission of notices **exclusively by electronic means**",
+    "gold_answer": "Providers of hosting services shall put mechanisms in place to allow any individual or entity to notify them of the presence on their service of specific items of information that the individual or entity considers to be illegal content. Those mechanisms shall be easy to access and user-friendly, and shall allow for the submission of notices exclusively by electronic means."
+  },
+  {
+    "qa_id": "DSA_Q06",
+    "question": "What must online platforms provide regarding internal complaint-handling systems?",
+    "prediction": "Based on the provided context, online platforms must provide the following regarding internal complaint-handling systems:",
+    "gold_answer": "Providers of online platforms shall provide recipients of the service, including individuals or entities that have submitted a notice, for a period of at least six months following the decision referred to in this paragraph, with access to an effective internal complaint-handling system that enables them to lodge complaints, electronically and free of charge, against the decision taken by the provider of the online platform upon the receipt of a notice or against the following decisions taken by the provider of the online platform on the grounds that the information provided by the recipients constitutes illegal content or is incompatible with its terms and conditions:(a) decisions whether or not to remove or disable access to or restrict visibility of the information;(b) decisions whether or not to suspend or terminate the provision of the service, in whole or in part, to the recipients;(c) decisions whether or not to suspend or terminate the recipients\u2019 account;(d) decisions whether or not to suspend, terminate or otherwise restrict the ability to monetise information provided by the recipients."
+  },
+  {
+    "qa_id": "DSA_Q07",
+    "question": "What obligation do very large online platforms have regarding risk assessment?",
+    "prediction": "Based on the provided context, very large online platforms or very large online search engines have the",
+    "gold_answer": "Providers of very large online platforms and of very large online search engines shall diligently identify, analyse and assess any systemic risks in the Union stemming from the design or functioning of their service and its related systems, including algorithmic systems, or from the use made of their services."
+  },
+  {
+    "qa_id": "DSA_Q08",
+    "question": "What transparency reporting obligation applies to providers of intermediary services?",
+    "prediction": "Based on the provided context, the transparency reporting obligations for **providers of very large online platforms",
+    "gold_answer": "Providers of intermediary services shall make publicly available, in a machine-readable format and in an easily accessible manner, at least once a year, clear, easily comprehensible reports on any content moderation that they engaged in during the relevant period."
+  },
+  {
+    "qa_id": "DSA_Q09",
+    "question": "What type of targeted advertising is prohibited with respect to minors?",
+    "prediction": "Based on the provided context, providers of online platforms are prohibited from presenting advertisements on their interface based on **profiling** (as defined in Article 4, point (4), of Regulation (EU) 2016/679) using **personal data of the recipient of the service** when they are **aware with reasonable certainty that the recipient of the service is a minor** (Article 28(2)).",
+    "gold_answer": "Providers of online platform shall not present advertisements on their interface based on profiling as defined in Article 4, point (4), of Regulation (EU) 2016/679 using personal data of the recipient of the service when they are aware with reasonable certainty that the recipient of the service is a minor."
+  },
+  {
+    "qa_id": "DSA_Q10",
+    "question": "What advertising practice is prohibited regarding sensitive data?",
+    "prediction": "Providers of online platforms are prohibited from presenting advertisements to recipients of the service based on profiling using **special",
+    "gold_answer": "Providers of online platforms shall not present advertisements to recipients of the service based on profiling as defined in Article 4, point (4), of Regulation (EU) 2016/679 using special categories of personal data referred to in Article 9(1) of Regulation (EU) 2016/679."
+  },
+  {
+    "qa_id": "DSA_Q11",
+    "question": "What is prohibited regarding dark patterns?",
+    "prediction": "Based on the provided context:\n\nProviders of online platforms are prohibited from designing, organizing",
+    "gold_answer": "Providers of online platforms shall not design, organise or operate their online interfaces in a way that deceives or manipulates the recipients of their service or in a way that otherwise materially distorts or impairs the ability of the recipients of their service to make free and informed decisions."
+  },
+  {
+    "qa_id": "DSA_Q12",
+    "question": "What is prohibited concerning suspension decisions without statement of reasons?",
+    "prediction": "The provided text does not explicitly state a prohibition concerning \"suspension decisions without a statement of",
+    "gold_answer": "Providers of hosting services shall provide a clear and specific statement of reasons to any affected recipients of the service for any of the following restrictions imposed on the ground that the information provided by the recipient of the service is illegal content or incompatible with their terms and conditions:(a) any restrictions of the visibility of specific items of information provided by the recipient of the service, including removal of content, disabling access to content, or demoting content;(b) suspension, termination or other restriction of monetary payments;(c) suspension or termination of the provision of the service in whole or in part;(d) suspension or termination of the recipient of the service's account."
+  },
+  {
+    "qa_id": "DSA_Q13",
+    "question": "What is the threshold for designation as a very large online platform?",
+    "prediction": "The threshold for designation as a very large online platform is a number of average monthly active recipients of the service in the Union equal to or higher than **45 million**.",
+    "gold_answer": "45 million average monthly active recipients of the service in the Union"
+  },
+  {
+    "qa_id": "DSA_Q14",
+    "question": "What is the maximum fine that may be imposed for infringements?",
+    "prediction": "Based on the provided context:\n\n*   For a failure to comply with an obligation laid down in",
+    "gold_answer": "fines not exceeding 6 % of the annual worldwide turnover of the provider of intermediary services concerned in the preceding financial year"
+  },
+  {
+    "qa_id": "DSA_Q15",
+    "question": "Within how many months must very large online platforms comply after designation?",
+    "prediction": "Very large online platforms and very large online search engines must comply from **four months** after the notification to the provider concerned.",
+    "gold_answer": "four months after its notification of the decision referred to in paragraph 4"
+  },
+  {
+    "qa_id": "DSA_Q16",
+    "question": "How often must transparency reports be published?",
+    "prediction": "Transparency reports must be published at least every six months.",
+    "gold_answer": "at least once a year"
+  },
+  {
+    "qa_id": "DSA_Q17",
+    "question": "Which Regulation is referenced in the definition of profiling for advertising purposes?",
+    "prediction": "The Regulation referenced in the definition of profiling for advertising purposes is **Regulation (EU) 2016/679",
+    "gold_answer": "Article 9(1) of Regulation (EU) 2016/679"
+  },
+  {
+    "qa_id": "DSA_Q18",
+    "question": "Which Chapter establishes due diligence obligations?",
+    "prediction": "Chapter III establishes due diligence obligations.",
+    "gold_answer": "Due diligence obligations for a transparent and safe online environment"
+  },
+  {
+    "qa_id": "DSA_Q19",
+    "question": "Which Article defines systemic risks?",
+    "prediction": "Article 34 defines systemic risks.",
+    "gold_answer": "Article 34"
+  },
+  {
+    "qa_id": "DSA_Q20",
+    "question": "Which Regulation is referenced in relation to personal data protection?",
+    "prediction": "The Regulation referenced in relation to personal data protection is **Regulation (EU) 2016/679",
+    "gold_answer": "Regulation (EU) 2016/679"
+  },
+  {
+    "qa_id": "GDPR_Q01",
+    "question": "What does 'personal data' mean under the Regulation?",
+    "prediction": "Under the Regulation, 'personal data' means any information relating to an identified or identifiable natural person ('data subject'). An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier, or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.",
+    "gold_answer": "'personal data' means any information relating to an identified or identifiable natural person (\u2018data subject\u2019); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;"
+  },
+  {
+    "qa_id": "GDPR_Q02",
+    "question": "What is the definition of 'processing'?",
+    "prediction": "'Processing' means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.",
+    "gold_answer": "'processing' means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction;"
+  },
+  {
+    "qa_id": "GDPR_Q03",
+    "question": "What is a 'controller'?",
+    "prediction": "According to Article 4, point (7) of the provided text, a 'controller' means:\n\n\"the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by Union or Member State law, the controller or the specific criteria for its nomination may be provided for by Union or Member State law.\"",
+    "gold_answer": "'controller' means the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by Union or Member State law, the controller or the specific criteria for its nomination may be provided for by Union or Member State law;"
+  },
+  {
+    "qa_id": "GDPR_Q04",
+    "question": "What is a 'personal data breach'?",
+    "prediction": "According to Article 4, point (12) of the provided context, a 'personal data breach' means:\n\n\"a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data transmitted, stored or otherwise processed.\"",
+    "gold_answer": "'personal data breach' means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data transmitted, stored or otherwise processed;"
+  },
+  {
+    "qa_id": "GDPR_Q05",
+    "question": "Within what time frame must a controller notify the supervisory authority of a personal data breach?",
+    "prediction": "The provided context refers to Article 33(1) and (2) for establishing the \"undue delay\" for a controller or processor to notify a personal data breach. However, the specific time frame (e.g., \"without undue delay and, where feasible, not later than 72 hours\") is not explicitly stated within the provided text.",
+    "gold_answer": "In the case of a personal data breach, the controller shall without undue delay and, where feasible, not later than 72 hours after having become aware of it, notify the personal data breach to the supervisory authority competent"
+  },
+  {
+    "qa_id": "GDPR_Q06",
+    "question": "When must the controller communicate a personal data breach to the data subject?",
+    "prediction": "The provided context refers to Article 34(1) regarding when a personal data breach is likely to result in a high risk to the rights and freedoms of natural persons, but it does not explicitly state the conditions or timing for when the controller must communicate a personal data breach to the data subject.",
+    "gold_answer": "When the personal data breach is likely to result in a high risk to the rights and freedoms of natural persons, the controller shall communicate the personal data breach to the data subject without undue delay."
+  },
+  {
+    "qa_id": "GDPR_Q07",
+    "question": "When is a data protection impact assessment required?",
+    "prediction": "A data protection impact assessment (DPIA) is required in the following situations:\n\n",
+    "gold_answer": "Where a type of processing in particular using new technologies, and taking into account the nature, scope, context and purposes of the processing, is likely to result in a high risk to the rights and freedoms of natural persons, the controller shall, prior to the processing, carry out an assessment of the impact of the envisaged processing operations on the protection of personal data. A single assessment may address a set of similar processing operations that present similar high risks."
+  },
+  {
+    "qa_id": "GDPR_Q08",
+    "question": "What must a controller implement to ensure and demonstrate compliance with this Regulation?",
+    "prediction": "To ensure and demonstrate compliance with this Regulation, a controller must implement **appropriate technical and organisational measures**.",
+    "gold_answer": "Taking into account the nature, scope, context and purposes of processing as well as the risks of varying likelihood and severity for the rights and freedoms of natural persons, the controller shall implement appropriate technical and organisational measures to ensure and to be able to demonstrate that processing is performed in accordance with this Regulation. Those measures shall be reviewed and updated where necessary."
+  },
+  {
+    "qa_id": "GDPR_Q09",
+    "question": "What types of personal data are prohibited from being processed under Article 9(1)?",
+    "prediction": "Based on the provided context, Article 9(1) is referred to as defining \"special categories of personal data.\"",
+    "gold_answer": "Processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation shall be prohibited."
+  },
+  {
+    "qa_id": "GDPR_Q10",
+    "question": "When shall a data subject have the right not to be subject to automated decision-making?",
+    "prediction": "A data subject shall have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her or similarly significantly affects him or her.\n\nThis right is outlined in",
+    "gold_answer": "The data subject shall have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her or similarly significantly affects him or her."
+  },
+  {
+    "qa_id": "GDPR_Q11",
+    "question": "When is further processing for incompatible purposes prohibited?",
+    "prediction": "Based on the provided context, further processing for incompatible purposes is generally prohibited unless specific conditions are",
+    "gold_answer": "collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes;"
+  },
+  {
+    "qa_id": "GDPR_Q12",
+    "question": "Under what condition is the transfer of personal data to a third country prohibited?",
+    "prediction": "The transfer of personal data to a third country is prohibited if the Commission has determined that the third country",
+    "gold_answer": "Any transfer of personal data which are undergoing processing or are intended for processing after transfer to a third country or to an international organisation shall take place only if, subject to the other provisions of this Regulation, the conditions laid down in this Chapter are complied with by the controller and processor, including for onward transfers of personal data from the third country or an international organisation to another third country or to another international organisation."
+  },
+  {
+    "qa_id": "GDPR_Q13",
+    "question": "What is the maximum administrative fine for certain infringements under Article 83(5)?",
+    "prediction": "According to Article 83(5), the maximum administrative fine for the specified infringements is **up to 20 000 000 EUR, or in the case of an undertaking, up to 4 % of the total worldwide annual turnover of the preceding financial year, whichever is higher.**",
+    "gold_answer": "be subject to administrative fines up to 20 000 000 EUR, or in the case of an undertaking, up to 4 % of the total worldwide annual turnover of the preceding financial year, whichever is higher:"
+  },
+  {
+    "qa_id": "GDPR_Q14",
+    "question": "Within how many hours must a breach be notified where feasible?",
+    "prediction": "The provided context does not specify the exact number of hours within which a breach must be notified. It refers to \"undue delay referred to in Article 33(1) and (2)\" but Article 33 itself is not included in the provided text.",
+    "gold_answer": "not later than 72 hours after having become aware of it"
+  },
+  {
+    "qa_id": "GDPR_Q15",
+    "question": "From what age may a child lawfully give consent in relation to information society services?",
+    "prediction": "Based on the provided context, the document discusses that children merit specific protection regarding their personal data and that the consent of the holder of parental responsibility should not be necessary for preventive or counselling services offered directly to a child (Recital 38).\n\nHowever, the provided text **does not specify an age** from which a child may lawfully give consent in relation to information society services.",
+    "gold_answer": "the processing of the personal data of a child shall be lawful where the child is at least 16 years old"
+  },
+  {
+    "qa_id": "GDPR_Q16",
+    "question": "What is the lower tier maximum administrative fine under Article 83(4)?",
+    "prediction": "Under Article 83(4), the lower tier maximum administrative fine is **10 000 000 EUR**.",
+    "gold_answer": "administrative fines up to 10 000 000 EUR, or in the case of an undertaking, up to 2 % of the total worldwide annual turnover"
+  },
+  {
+    "qa_id": "GDPR_Q17",
+    "question": "Which Articles are referenced as conditions for consent under Article 7(1)?",
+    "prediction": "Article 7(1) itself does not reference other Articles as conditions for consent. It states:\n\n\"Where processing is based on consent, the controller shall be able to demonstrate that the data subject has consented to processing of his or her personal data.\"\n\nThe subsequent paragraphs of Article 7 (2, 3, and 4) elaborate on the conditions for consent, but they are not referenced *by* Article 7(1).",
+    "gold_answer": "Where processing is based on consent, the controller shall be able to demonstrate that the data subject has consented to processing of his or her personal data."
+  },
+  {
+    "qa_id": "GDPR_Q18",
+    "question": "Which Chapter governs transfers of personal data to third countries?",
+    "prediction": "Chapter V governs transfers of personal data to third countries or international organisations.",
+    "gold_answer": "Chapter V Transfers of personal data to third countries or international organisations"
+  },
+  {
+    "qa_id": "GDPR_Q19",
+    "question": "Article 6(1) refers to which lawful bases for processing?",
+    "prediction": "Based on the provided context, Article 6(1) refers to the following",
+    "gold_answer": "Processing shall be lawful only if and to the extent that at least one of the following applies:(a) the data subject has given consent to the processing of his or her personal data for one or more specific purposes; (b) processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract; (c) processing is necessary for compliance with a legal obligation to which the controller is subject; (d) processing is necessary in order to protect the vital interests of the data subject or of another natural person; (e) processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller; (f) processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+  },
+  {
+    "qa_id": "GDPR_Q20",
+    "question": "Which Articles establish the rights of the data subject?",
+    "prediction": "The rights of the data subject are established in **Chapter III, Articles 12 to 22** of the Regulation.",
+    "gold_answer": "Articles 12\u201322"
+  }
+]

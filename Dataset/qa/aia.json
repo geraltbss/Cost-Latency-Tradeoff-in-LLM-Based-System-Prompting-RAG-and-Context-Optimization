@@ -185,7 +185,7 @@
   "category": "Cross-reference",
   "question": "Which Articles govern conformity assessment procedures?",
   "article": "Articles 43–47",
-  "answer_text": "Conformity assessment",
+  "answer_text": "Conformity assessment procedures are governed by Article 43, Annex VI, and Annex VII",
   "start_char": null,
   "end_char": null
 },
@@ -195,7 +195,7 @@
   "category": "Cross-reference",
   "question": "Which Article governs CE marking of high-risk AI systems?",
   "article": "Article 49",
-  "answer_text": "CE marking",
+  "answer_text": "Article 49",
   "start_char": null,
   "end_char": null
 }

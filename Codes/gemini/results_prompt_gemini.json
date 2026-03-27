@@ -1,0 +1,802 @@
+[
+  {
+    "qa_id": "AIACT_Q01",
+    "system": "Prompt-Only",
+    "latency": 10.279937505722046,
+    "prompt_tokens_used": 134482,
+    "output_tokens": 70,
+    "EM": 1
+  },
+  {
+    "qa_id": "AIACT_Q02",
+    "system": "Prompt-Only",
+    "latency": 6.659923315048218,
+    "prompt_tokens_used": 134482,
+    "output_tokens": 70,
+    "EM": 1
+  },
+  {
+    "qa_id": "AIACT_Q03",
+    "system": "Prompt-Only",
+    "latency": 7.623974084854126,
+    "prompt_tokens_used": 134481,
+    "output_tokens": 71,
+    "EM": 1
+  },
+  {
+    "qa_id": "AIACT_Q04",
+    "system": "Prompt-Only",
+    "latency": 7.990092039108276,
+    "prompt_tokens_used": 134478,
+    "output_tokens": 43,
+    "EM": 1
+  },
+  {
+    "qa_id": "AIACT_Q05",
+    "system": "Prompt-Only",
+    "latency": 8.372483491897583,
+    "prompt_tokens_used": 134482,
+    "output_tokens": 12,
+    "EM": 0
+  },
+  {
+    "qa_id": "AIACT_Q06",
+    "system": "Prompt-Only",
+    "latency": 12.37133502960205,
+    "prompt_tokens_used": 134488,
+    "output_tokens": 12,
+    "EM": 0
+  },
+  {
+    "qa_id": "AIACT_Q07",
+    "system": "Prompt-Only",
+    "latency": 6.3728203773498535,
+    "prompt_tokens_used": 134485,
+    "output_tokens": 43,
+    "EM": 1
+  },
+  {
+    "qa_id": "AIACT_Q08",
+    "system": "Prompt-Only",
+    "latency": 14.140480518341064,
+    "prompt_tokens_used": 134484,
+    "output_tokens": 73,
+    "EM": 1
+  },
+  {
+    "qa_id": "AIACT_Q09",
+    "system": "Prompt-Only",
+    "latency": 9.387861490249634,
+    "prompt_tokens_used": 134478,
+    "output_tokens": 18,
+    "EM": 1
+  },
+  {
+    "qa_id": "AIACT_Q10",
+    "system": "Prompt-Only",
+    "latency": 5.661319732666016,
+    "prompt_tokens_used": 134486,
+    "output_tokens": 22,
+    "EM": 0
+  },
+  {
+    "qa_id": "AIACT_Q11",
+    "system": "Prompt-Only",
+    "latency": 8.23256254196167,
+    "prompt_tokens_used": 134479,
+    "output_tokens": 105,
+    "EM": 1
+  },
+  {
+    "qa_id": "AIACT_Q12",
+    "system": "Prompt-Only",
+    "latency": 7.447150707244873,
+    "prompt_tokens_used": 134479,
+    "output_tokens": 39,
+    "EM": 1
+  },
+  {
+    "qa_id": "AIACT_Q13",
+    "system": "Prompt-Only",
+    "latency": 13.08813214302063,
+    "prompt_tokens_used": 134482,
+    "output_tokens": 41,
+    "EM": 1
+  },
+  {
+    "qa_id": "AIACT_Q14",
+    "system": "Prompt-Only",
+    "latency": 10.846567153930664,
+    "prompt_tokens_used": 134482,
+    "output_tokens": 17,
+    "EM": 1
+  },
+  {
+    "qa_id": "AIACT_Q15",
+    "system": "Prompt-Only",
+    "latency": 28.721689462661743,
+    "prompt_tokens_used": 134481,
+    "output_tokens": 19,
+    "EM": 0
+  },
+  {
+    "qa_id": "AIACT_Q16",
+    "system": "Prompt-Only",
+    "latency": 11.743801832199097,
+    "prompt_tokens_used": 134484,
+    "output_tokens": 39,
+    "EM": 1
+  },
+  {
+    "qa_id": "AIACT_Q17",
+    "system": "Prompt-Only",
+    "latency": 8.994550704956055,
+    "prompt_tokens_used": 134485,
+    "output_tokens": 2,
+    "EM": 1
+  },
+  {
+    "qa_id": "AIACT_Q18",
+    "system": "Prompt-Only",
+    "latency": 11.701224327087402,
+    "prompt_tokens_used": 134480,
+    "output_tokens": 13,
+    "EM": 1
+  },
+  {
+    "qa_id": "AIACT_Q19",
+    "system": "Prompt-Only",
+    "latency": 7.6866419315338135,
+    "prompt_tokens_used": 134478,
+    "output_tokens": 19,
+    "EM": 1
+  },
+  {
+    "qa_id": "AIACT_Q20",
+    "system": "Prompt-Only",
+    "latency": 14.495243787765503,
+    "prompt_tokens_used": 134483,
+    "output_tokens": 4,
+    "EM": 0
+  },
+  {
+    "qa_id": "DGA_Q01",
+    "system": "Prompt-Only",
+    "latency": 4.285882472991943,
+    "prompt_tokens_used": 40473,
+    "output_tokens": 65,
+    "EM": 1
+  },
+  {
+    "qa_id": "DGA_Q02",
+    "system": "Prompt-Only",
+    "latency": 3.7257306575775146,
+    "prompt_tokens_used": 40471,
+    "output_tokens": 65,
+    "EM": 1
+  },
+  {
+    "qa_id": "DGA_Q03",
+    "system": "Prompt-Only",
+    "latency": 4.09000825881958,
+    "prompt_tokens_used": 40471,
+    "output_tokens": 61,
+    "EM": 1
+  },
+  {
+    "qa_id": "DGA_Q04",
+    "system": "Prompt-Only",
+    "latency": 3.602377414703369,
+    "prompt_tokens_used": 40471,
+    "output_tokens": 122,
+    "EM": 1
+  },
+  {
+    "qa_id": "DGA_Q05",
+    "system": "Prompt-Only",
+    "latency": 4.200422525405884,
+    "prompt_tokens_used": 40477,
+    "output_tokens": 11,
+    "EM": 1
+  },
+  {
+    "qa_id": "DGA_Q06",
+    "system": "Prompt-Only",
+    "latency": 4.367437362670898,
+    "prompt_tokens_used": 40475,
+    "output_tokens": 17,
+    "EM": 0
+  },
+  {
+    "qa_id": "DGA_Q07",
+    "system": "Prompt-Only",
+    "latency": 4.298835039138794,
+    "prompt_tokens_used": 40479,
+    "output_tokens": 18,
+    "EM": 0
+  },
+  {
+    "qa_id": "DGA_Q08",
+    "system": "Prompt-Only",
+    "latency": 4.226677656173706,
+    "prompt_tokens_used": 40476,
+    "output_tokens": 130,
+    "EM": 0
+  },
+  {
+    "qa_id": "DGA_Q09",
+    "system": "Prompt-Only",
+    "latency": 3.7721750736236572,
+    "prompt_tokens_used": 40479,
+    "output_tokens": 32,
+    "EM": 1
+  },
+  {
+    "qa_id": "DGA_Q10",
+    "system": "Prompt-Only",
+    "latency": 4.330413818359375,
+    "prompt_tokens_used": 40478,
+    "output_tokens": 16,
+    "EM": 0
+  },
+  {
+    "qa_id": "DGA_Q11",
+    "system": "Prompt-Only",
+    "latency": 4.3221116065979,
+    "prompt_tokens_used": 40479,
+    "output_tokens": 75,
+    "EM": 1
+  },
+  {
+    "qa_id": "DGA_Q12",
+    "system": "Prompt-Only",
+    "latency": 4.771800518035889,
+    "prompt_tokens_used": 40485,
+    "output_tokens": 23,
+    "EM": 1
+  },
+  {
+    "qa_id": "DGA_Q13",
+    "system": "Prompt-Only",
+    "latency": 4.2716453075408936,
+    "prompt_tokens_used": 40478,
+    "output_tokens": 18,
+    "EM": 1
+  },
+  {
+    "qa_id": "DGA_Q14",
+    "system": "Prompt-Only",
+    "latency": 4.0195605754852295,
+    "prompt_tokens_used": 40476,
+    "output_tokens": 3,
+    "EM": 1
+  },
+  {
+    "qa_id": "DGA_Q15",
+    "system": "Prompt-Only",
+    "latency": 5.583867788314819,
+    "prompt_tokens_used": 40482,
+    "output_tokens": 3,
+    "EM": 1
+  },
+  {
+    "qa_id": "DGA_Q16",
+    "system": "Prompt-Only",
+    "latency": 5.149542808532715,
+    "prompt_tokens_used": 40473,
+    "output_tokens": 19,
+    "EM": 1
+  },
+  {
+    "qa_id": "DGA_Q17",
+    "system": "Prompt-Only",
+    "latency": 4.169126033782959,
+    "prompt_tokens_used": 40473,
+    "output_tokens": 13,
+    "EM": 1
+  },
+  {
+    "qa_id": "DGA_Q18",
+    "system": "Prompt-Only",
+    "latency": 4.977066516876221,
+    "prompt_tokens_used": 40476,
+    "output_tokens": 44,
+    "EM": 1
+  },
+  {
+    "qa_id": "DGA_Q19",
+    "system": "Prompt-Only",
+    "latency": 3.526456594467163,
+    "prompt_tokens_used": 40480,
+    "output_tokens": 17,
+    "EM": 1
+  },
+  {
+    "qa_id": "DGA_Q20",
+    "system": "Prompt-Only",
+    "latency": 3.3968331813812256,
+    "prompt_tokens_used": 40471,
+    "output_tokens": 6,
+    "EM": 1
+  },
+  {
+    "qa_id": "DMA_Q01",
+    "system": "Prompt-Only",
+    "latency": 2.967846393585205,
+    "prompt_tokens_used": 56058,
+    "output_tokens": 19,
+    "EM": 1
+  },
+  {
+    "qa_id": "DMA_Q02",
+    "system": "Prompt-Only",
+    "latency": 3.030374526977539,
+    "prompt_tokens_used": 56055,
+    "output_tokens": 132,
+    "EM": 2
+  },
+  {
+    "qa_id": "DMA_Q03",
+    "system": "Prompt-Only",
+    "latency": 2.8331127166748047,
+    "prompt_tokens_used": 56054,
+    "output_tokens": 38,
+    "EM": 1
+  },
+  {
+    "qa_id": "DMA_Q04",
+    "system": "Prompt-Only",
+    "latency": 2.5913140773773193,
+    "prompt_tokens_used": 56054,
+    "output_tokens": 21,
+    "EM": 1
+  },
+  {
+    "qa_id": "DMA_Q05",
+    "system": "Prompt-Only",
+    "latency": 5.026544809341431,
+    "prompt_tokens_used": 56061,
+    "output_tokens": 20,
+    "EM": 1
+  },
+  {
+    "qa_id": "DMA_Q06",
+    "system": "Prompt-Only",
+    "latency": 4.522545576095581,
+    "prompt_tokens_used": 56064,
+    "output_tokens": 86,
+    "EM": 1
+  },
+  {
+    "qa_id": "DMA_Q07",
+    "system": "Prompt-Only",
+    "latency": 5.205498933792114,
+    "prompt_tokens_used": 56060,
+    "output_tokens": 19,
+    "EM": 0
+  },
+  {
+    "qa_id": "DMA_Q08",
+    "system": "Prompt-Only",
+    "latency": 4.560884475708008,
+    "prompt_tokens_used": 56056,
+    "output_tokens": 17,
+    "EM": 0
+  },
+  {
+    "qa_id": "DMA_Q09",
+    "system": "Prompt-Only",
+    "latency": 5.447051286697388,
+    "prompt_tokens_used": 56058,
+    "output_tokens": 28,
+    "EM": 1
+  },
+  {
+    "qa_id": "DMA_Q10",
+    "system": "Prompt-Only",
+    "latency": 4.309385776519775,
+    "prompt_tokens_used": 56063,
+    "output_tokens": 55,
+    "EM": 1
+  },
+  {
+    "qa_id": "DMA_Q11",
+    "system": "Prompt-Only",
+    "latency": 4.729935169219971,
+    "prompt_tokens_used": 56057,
+    "output_tokens": 19,
+    "EM": 0
+  },
+  {
+    "qa_id": "DMA_Q12",
+    "system": "Prompt-Only",
+    "latency": 4.671185493469238,
+    "prompt_tokens_used": 56059,
+    "output_tokens": 17,
+    "EM": 0
+  },
+  {
+    "qa_id": "DMA_Q13",
+    "system": "Prompt-Only",
+    "latency": 3.559795379638672,
+    "prompt_tokens_used": 56059,
+    "output_tokens": 6,
+    "EM": 1
+  },
+  {
+    "qa_id": "DMA_Q14",
+    "system": "Prompt-Only",
+    "latency": 3.929332971572876,
+    "prompt_tokens_used": 56057,
+    "output_tokens": 7,
+    "EM": 1
+  },
+  {
+    "qa_id": "DMA_Q15",
+    "system": "Prompt-Only",
+    "latency": 4.096374273300171,
+    "prompt_tokens_used": 56059,
+    "output_tokens": 7,
+    "EM": 1
+  },
+  {
+    "qa_id": "DMA_Q16",
+    "system": "Prompt-Only",
+    "latency": 4.6800854206085205,
+    "prompt_tokens_used": 56057,
+    "output_tokens": 16,
+    "EM": 0
+  },
+  {
+    "qa_id": "DMA_Q17",
+    "system": "Prompt-Only",
+    "latency": 2.5766263008117676,
+    "prompt_tokens_used": 56057,
+    "output_tokens": 9,
+    "EM": 1
+  },
+  {
+    "qa_id": "DMA_Q18",
+    "system": "Prompt-Only",
+    "latency": 4.48939061164856,
+    "prompt_tokens_used": 56057,
+    "output_tokens": 13,
+    "EM": 1
+  },
+  {
+    "qa_id": "DMA_Q19",
+    "system": "Prompt-Only",
+    "latency": 3.7228057384490967,
+    "prompt_tokens_used": 56057,
+    "output_tokens": 4,
+    "EM": 1
+  },
+  {
+    "qa_id": "DMA_Q20",
+    "system": "Prompt-Only",
+    "latency": 3.8430371284484863,
+    "prompt_tokens_used": 56060,
+    "output_tokens": 4,
+    "EM": 0
+  },
+  {
+    "qa_id": "DSA_Q01",
+    "system": "Prompt-Only",
+    "latency": 4.835495710372925,
+    "prompt_tokens_used": 87880,
+    "output_tokens": 27,
+    "EM": 1
+  },
+  {
+    "qa_id": "DSA_Q02",
+    "system": "Prompt-Only",
+    "latency": 4.5249762535095215,
+    "prompt_tokens_used": 87876,
+    "output_tokens": 89,
+    "EM": 1
+  },
+  {
+    "qa_id": "DSA_Q03",
+    "system": "Prompt-Only",
+    "latency": 5.347119331359863,
+    "prompt_tokens_used": 87875,
+    "output_tokens": 63,
+    "EM": 1
+  },
+  {
+    "qa_id": "DSA_Q04",
+    "system": "Prompt-Only",
+    "latency": 3.7039995193481445,
+    "prompt_tokens_used": 87880,
+    "output_tokens": 37,
+    "EM": 1
+  },
+  {
+    "qa_id": "DSA_Q05",
+    "system": "Prompt-Only",
+    "latency": 5.615798473358154,
+    "prompt_tokens_used": 87885,
+    "output_tokens": 34,
+    "EM": 1
+  },
+  {
+    "qa_id": "DSA_Q06",
+    "system": "Prompt-Only",
+    "latency": 6.513126373291016,
+    "prompt_tokens_used": 87881,
+    "output_tokens": 112,
+    "EM": 1
+  },
+  {
+    "qa_id": "DSA_Q07",
+    "system": "Prompt-Only",
+    "latency": 4.9791481494903564,
+    "prompt_tokens_used": 87881,
+    "output_tokens": 53,
+    "EM": 1
+  },
+  {
+    "qa_id": "DSA_Q08",
+    "system": "Prompt-Only",
+    "latency": 4.936948776245117,
+    "prompt_tokens_used": 87880,
+    "output_tokens": 47,
+    "EM": 1
+  },
+  {
+    "qa_id": "DSA_Q09",
+    "system": "Prompt-Only",
+    "latency": 4.128872871398926,
+    "prompt_tokens_used": 87881,
+    "output_tokens": 18,
+    "EM": 1
+  },
+  {
+    "qa_id": "DSA_Q10",
+    "system": "Prompt-Only",
+    "latency": 4.150233745574951,
+    "prompt_tokens_used": 87878,
+    "output_tokens": 15,
+    "EM": 0
+  },
+  {
+    "qa_id": "DSA_Q11",
+    "system": "Prompt-Only",
+    "latency": 7.3434693813323975,
+    "prompt_tokens_used": 87876,
+    "output_tokens": 55,
+    "EM": 1
+  },
+  {
+    "qa_id": "DSA_Q12",
+    "system": "Prompt-Only",
+    "latency": 4.668706655502319,
+    "prompt_tokens_used": 87880,
+    "output_tokens": 20,
+    "EM": 0
+  },
+  {
+    "qa_id": "DSA_Q13",
+    "system": "Prompt-Only",
+    "latency": 5.283077716827393,
+    "prompt_tokens_used": 87882,
+    "output_tokens": 19,
+    "EM": 1
+  },
+  {
+    "qa_id": "DSA_Q14",
+    "system": "Prompt-Only",
+    "latency": 4.339089393615723,
+    "prompt_tokens_used": 87882,
+    "output_tokens": 19,
+    "EM": 1
+  },
+  {
+    "qa_id": "DSA_Q15",
+    "system": "Prompt-Only",
+    "latency": 3.933109998703003,
+    "prompt_tokens_used": 87882,
+    "output_tokens": 2,
+    "EM": 1
+  },
+  {
+    "qa_id": "DSA_Q16",
+    "system": "Prompt-Only",
+    "latency": 5.304657459259033,
+    "prompt_tokens_used": 87877,
+    "output_tokens": 5,
+    "EM": 1
+  },
+  {
+    "qa_id": "DSA_Q17",
+    "system": "Prompt-Only",
+    "latency": 4.4139275550842285,
+    "prompt_tokens_used": 87882,
+    "output_tokens": 13,
+    "EM": 1
+  },
+  {
+    "qa_id": "DSA_Q18",
+    "system": "Prompt-Only",
+    "latency": 5.1438353061676025,
+    "prompt_tokens_used": 87876,
+    "output_tokens": 21,
+    "EM": 1
+  },
+  {
+    "qa_id": "DSA_Q19",
+    "system": "Prompt-Only",
+    "latency": 4.927841901779175,
+    "prompt_tokens_used": 87875,
+    "output_tokens": 4,
+    "EM": 1
+  },
+  {
+    "qa_id": "DSA_Q20",
+    "system": "Prompt-Only",
+    "latency": 5.206427335739136,
+    "prompt_tokens_used": 87880,
+    "output_tokens": 17,
+    "EM": 1
+  },
+  {
+    "qa_id": "GDPR_Q01",
+    "system": "Prompt-Only",
+    "latency": 4.065934419631958,
+    "prompt_tokens_used": 76303,
+    "output_tokens": 85,
+    "EM": 1
+  },
+  {
+    "qa_id": "GDPR_Q02",
+    "system": "Prompt-Only",
+    "latency": 3.5792236328125,
+    "prompt_tokens_used": 76300,
+    "output_tokens": 71,
+    "EM": 1
+  },
+  {
+    "qa_id": "GDPR_Q03",
+    "system": "Prompt-Only",
+    "latency": 4.956513166427612,
+    "prompt_tokens_used": 76298,
+    "output_tokens": 74,
+    "EM": 1
+  },
+  {
+    "qa_id": "GDPR_Q04",
+    "system": "Prompt-Only",
+    "latency": 3.8798515796661377,
+    "prompt_tokens_used": 76300,
+    "output_tokens": 38,
+    "EM": 1
+  },
+  {
+    "qa_id": "GDPR_Q05",
+    "system": "Prompt-Only",
+    "latency": 4.578503370285034,
+    "prompt_tokens_used": 76309,
+    "output_tokens": 7,
+    "EM": 1
+  },
+  {
+    "qa_id": "GDPR_Q06",
+    "system": "Prompt-Only",
+    "latency": 3.9970948696136475,
+    "prompt_tokens_used": 76306,
+    "output_tokens": 38,
+    "EM": 1
+  },
+  {
+    "qa_id": "GDPR_Q07",
+    "system": "Prompt-Only",
+    "latency": 4.6231279373168945,
+    "prompt_tokens_used": 76301,
+    "output_tokens": 15,
+    "EM": 0
+  },
+  {
+    "qa_id": "GDPR_Q08",
+    "system": "Prompt-Only",
+    "latency": 4.2974724769592285,
+    "prompt_tokens_used": 76306,
+    "output_tokens": 22,
+    "EM": 0
+  },
+  {
+    "qa_id": "GDPR_Q09",
+    "system": "Prompt-Only",
+    "latency": 3.8437466621398926,
+    "prompt_tokens_used": 76309,
+    "output_tokens": 59,
+    "EM": 1
+  },
+  {
+    "qa_id": "GDPR_Q10",
+    "system": "Prompt-Only",
+    "latency": 4.276266574859619,
+    "prompt_tokens_used": 76310,
+    "output_tokens": 39,
+    "EM": 1
+  },
+  {
+    "qa_id": "GDPR_Q11",
+    "system": "Prompt-Only",
+    "latency": 5.207930088043213,
+    "prompt_tokens_used": 76301,
+    "output_tokens": 17,
+    "EM": 0
+  },
+  {
+    "qa_id": "GDPR_Q12",
+    "system": "Prompt-Only",
+    "latency": 5.6559648513793945,
+    "prompt_tokens_used": 76307,
+    "output_tokens": 34,
+    "EM": 0
+  },
+  {
+    "qa_id": "GDPR_Q13",
+    "system": "Prompt-Only",
+    "latency": 4.2296388149261475,
+    "prompt_tokens_used": 76310,
+    "output_tokens": 40,
+    "EM": 1
+  },
+  {
+    "qa_id": "GDPR_Q14",
+    "system": "Prompt-Only",
+    "latency": 3.8363425731658936,
+    "prompt_tokens_used": 76304,
+    "output_tokens": 3,
+    "EM": 1
+  },
+  {
+    "qa_id": "GDPR_Q15",
+    "system": "Prompt-Only",
+    "latency": 5.239208221435547,
+    "prompt_tokens_used": 76308,
+    "output_tokens": 10,
+    "EM": 1
+  },
+  {
+    "qa_id": "GDPR_Q16",
+    "system": "Prompt-Only",
+    "latency": 5.310150861740112,
+    "prompt_tokens_used": 76308,
+    "output_tokens": 11,
+    "EM": 1
+  },
+  {
+    "qa_id": "GDPR_Q17",
+    "system": "Prompt-Only",
+    "latency": 5.34124231338501,
+    "prompt_tokens_used": 76307,
+    "output_tokens": 17,
+    "EM": 1
+  },
+  {
+    "qa_id": "GDPR_Q18",
+    "system": "Prompt-Only",
+    "latency": 4.114025115966797,
+    "prompt_tokens_used": 76303,
+    "output_tokens": 12,
+    "EM": 1
+  },
+  {
+    "qa_id": "GDPR_Q19",
+    "system": "Prompt-Only",
+    "latency": 4.7851128578186035,
+    "prompt_tokens_used": 76306,
+    "output_tokens": 76,
+    "EM": 1
+  },
+  {
+    "qa_id": "GDPR_Q20",
+    "system": "Prompt-Only",
+    "latency": 4.703963994979858,
+    "prompt_tokens_used": 76302,
+    "output_tokens": 8,
+    "EM": 1
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "qa_id": "AIACT_Q01",
+    "system": "RAG",
+    "latency": 3.242147207260132,
+    "prompt_tokens_full": 793,
+    "prompt_tokens_used": 793,
+    "output_tokens": 64,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "AIACT_Q02",
+    "system": "RAG",
+    "latency": 3.249351978302002,
+    "prompt_tokens_full": 794,
+    "prompt_tokens_used": 794,
+    "output_tokens": 73,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "AIACT_Q03",
+    "system": "RAG",
+    "latency": 4.3222057819366455,
+    "prompt_tokens_full": 792,
+    "prompt_tokens_used": 792,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "AIACT_Q04",
+    "system": "RAG",
+    "latency": 1.954286813735962,
+    "prompt_tokens_full": 791,
+    "prompt_tokens_used": 791,
+    "output_tokens": 43,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "AIACT_Q05",
+    "system": "RAG",
+    "latency": 0.9823508262634277,
+    "prompt_tokens_full": 747,
+    "prompt_tokens_used": 747,
+    "output_tokens": 20,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "AIACT_Q06",
+    "system": "RAG",
+    "latency": 0.46390557289123535,
+    "prompt_tokens_full": 798,
+    "prompt_tokens_used": 798,
+    "output_tokens": 7,
+    "EM": 0,
+    "Recall": 0
+  },
+  {
+    "qa_id": "AIACT_Q07",
+    "system": "RAG",
+    "latency": 4.392550945281982,
+    "prompt_tokens_full": 793,
+    "prompt_tokens_used": 793,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "AIACT_Q08",
+    "system": "RAG",
+    "latency": 4.343588590621948,
+    "prompt_tokens_full": 796,
+    "prompt_tokens_used": 796,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "AIACT_Q09",
+    "system": "RAG",
+    "latency": 2.297166109085083,
+    "prompt_tokens_full": 782,
+    "prompt_tokens_used": 782,
+    "output_tokens": 51,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "AIACT_Q10",
+    "system": "RAG",
+    "latency": 4.376145601272583,
+    "prompt_tokens_full": 797,
+    "prompt_tokens_used": 797,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "AIACT_Q11",
+    "system": "RAG",
+    "latency": 3.9690961837768555,
+    "prompt_tokens_full": 792,
+    "prompt_tokens_used": 792,
+    "output_tokens": 91,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "AIACT_Q12",
+    "system": "RAG",
+    "latency": 1.6391184329986572,
+    "prompt_tokens_full": 754,
+    "prompt_tokens_used": 754,
+    "output_tokens": 36,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "AIACT_Q13",
+    "system": "RAG",
+    "latency": 0.7064516544342041,
+    "prompt_tokens_full": 794,
+    "prompt_tokens_used": 794,
+    "output_tokens": 13,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "AIACT_Q14",
+    "system": "RAG",
+    "latency": 4.3650758266448975,
+    "prompt_tokens_full": 794,
+    "prompt_tokens_used": 794,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "AIACT_Q15",
+    "system": "RAG",
+    "latency": 0.9710736274719238,
+    "prompt_tokens_full": 794,
+    "prompt_tokens_used": 794,
+    "output_tokens": 19,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "AIACT_Q16",
+    "system": "RAG",
+    "latency": 0.7318329811096191,
+    "prompt_tokens_full": 795,
+    "prompt_tokens_used": 795,
+    "output_tokens": 13,
+    "EM": 0,
+    "Recall": 0
+  },
+  {
+    "qa_id": "AIACT_Q17",
+    "system": "RAG",
+    "latency": 4.35068678855896,
+    "prompt_tokens_full": 796,
+    "prompt_tokens_used": 796,
+    "output_tokens": 100,
+    "EM": 0,
+    "Recall": 1
+  },
+  {
+    "qa_id": "AIACT_Q18",
+    "system": "RAG",
+    "latency": 4.364314317703247,
+    "prompt_tokens_full": 789,
+    "prompt_tokens_used": 789,
+    "output_tokens": 100,
+    "EM": 0,
+    "Recall": 1
+  },
+  {
+    "qa_id": "AIACT_Q19",
+    "system": "RAG",
+    "latency": 4.412287473678589,
+    "prompt_tokens_full": 789,
+    "prompt_tokens_used": 789,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "AIACT_Q20",
+    "system": "RAG",
+    "latency": 0.3710441589355469,
+    "prompt_tokens_full": 794,
+    "prompt_tokens_used": 794,
+    "output_tokens": 4,
+    "EM": 0,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DGA_Q01",
+    "system": "RAG",
+    "latency": 4.346334934234619,
+    "prompt_tokens_full": 791,
+    "prompt_tokens_used": 791,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DGA_Q02",
+    "system": "RAG",
+    "latency": 4.396428108215332,
+    "prompt_tokens_full": 790,
+    "prompt_tokens_used": 790,
+    "output_tokens": 100,
+    "EM": 0,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DGA_Q03",
+    "system": "RAG",
+    "latency": 4.533393144607544,
+    "prompt_tokens_full": 790,
+    "prompt_tokens_used": 790,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DGA_Q04",
+    "system": "RAG",
+    "latency": 4.5315260887146,
+    "prompt_tokens_full": 768,
+    "prompt_tokens_used": 768,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DGA_Q05",
+    "system": "RAG",
+    "latency": 3.262556314468384,
+    "prompt_tokens_full": 795,
+    "prompt_tokens_used": 795,
+    "output_tokens": 72,
+    "EM": 0,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DGA_Q06",
+    "system": "RAG",
+    "latency": 4.553492069244385,
+    "prompt_tokens_full": 794,
+    "prompt_tokens_used": 794,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DGA_Q07",
+    "system": "RAG",
+    "latency": 3.0073869228363037,
+    "prompt_tokens_full": 797,
+    "prompt_tokens_used": 797,
+    "output_tokens": 66,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DGA_Q08",
+    "system": "RAG",
+    "latency": 4.506930828094482,
+    "prompt_tokens_full": 770,
+    "prompt_tokens_used": 770,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DGA_Q09",
+    "system": "RAG",
+    "latency": 4.4643919467926025,
+    "prompt_tokens_full": 784,
+    "prompt_tokens_used": 784,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DGA_Q10",
+    "system": "RAG",
+    "latency": 2.2972047328948975,
+    "prompt_tokens_full": 783,
+    "prompt_tokens_used": 783,
+    "output_tokens": 51,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DGA_Q11",
+    "system": "RAG",
+    "latency": 4.328965187072754,
+    "prompt_tokens_full": 797,
+    "prompt_tokens_used": 797,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DGA_Q12",
+    "system": "RAG",
+    "latency": 4.5236265659332275,
+    "prompt_tokens_full": 803,
+    "prompt_tokens_used": 803,
+    "output_tokens": 100,
+    "EM": 0,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DGA_Q13",
+    "system": "RAG",
+    "latency": 1.5854856967926025,
+    "prompt_tokens_full": 795,
+    "prompt_tokens_used": 795,
+    "output_tokens": 30,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DGA_Q14",
+    "system": "RAG",
+    "latency": 0.3756370544433594,
+    "prompt_tokens_full": 793,
+    "prompt_tokens_used": 793,
+    "output_tokens": 5,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DGA_Q15",
+    "system": "RAG",
+    "latency": 0.37741947174072266,
+    "prompt_tokens_full": 800,
+    "prompt_tokens_used": 800,
+    "output_tokens": 5,
+    "EM": 0,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DGA_Q16",
+    "system": "RAG",
+    "latency": 1.9975018501281738,
+    "prompt_tokens_full": 790,
+    "prompt_tokens_used": 790,
+    "output_tokens": 44,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DGA_Q17",
+    "system": "RAG",
+    "latency": 4.386223316192627,
+    "prompt_tokens_full": 789,
+    "prompt_tokens_used": 789,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 1
+  },
+  {
+    "qa_id": "DGA_Q18",
+    "system": "RAG",
+    "latency": 4.381662130355835,
+    "prompt_tokens_full": 795,
+    "prompt_tokens_used": 795,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 1
+  },
+  {
+    "qa_id": "DGA_Q19",
+    "system": "RAG",
+    "latency": 0.3392510414123535,
+    "prompt_tokens_full": 799,
+    "prompt_tokens_used": 799,
+    "output_tokens": 4,
+    "EM": 0,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DGA_Q20",
+    "system": "RAG",
+    "latency": 0.5513567924499512,
+    "prompt_tokens_full": 789,
+    "prompt_tokens_used": 789,
+    "output_tokens": 9,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DMA_Q01",
+    "system": "RAG",
+    "latency": 4.401447534561157,
+    "prompt_tokens_full": 792,
+    "prompt_tokens_used": 792,
+    "output_tokens": 100,
+    "EM": 0,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DMA_Q02",
+    "system": "RAG",
+    "latency": 4.210361480712891,
+    "prompt_tokens_full": 792,
+    "prompt_tokens_used": 792,
+    "output_tokens": 97,
+    "EM": 0,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DMA_Q03",
+    "system": "RAG",
+    "latency": 5.4651689529418945,
+    "prompt_tokens_full": 599,
+    "prompt_tokens_used": 599,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DMA_Q04",
+    "system": "RAG",
+    "latency": 2.0365052223205566,
+    "prompt_tokens_full": 599,
+    "prompt_tokens_used": 599,
+    "output_tokens": 41,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DMA_Q05",
+    "system": "RAG",
+    "latency": 1.792569637298584,
+    "prompt_tokens_full": 797,
+    "prompt_tokens_used": 797,
+    "output_tokens": 35,
+    "EM": 0,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DMA_Q06",
+    "system": "RAG",
+    "latency": 0.761711835861206,
+    "prompt_tokens_full": 767,
+    "prompt_tokens_used": 767,
+    "output_tokens": 13,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DMA_Q07",
+    "system": "RAG",
+    "latency": 0.7586667537689209,
+    "prompt_tokens_full": 796,
+    "prompt_tokens_used": 796,
+    "output_tokens": 12,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DMA_Q08",
+    "system": "RAG",
+    "latency": 1.2849311828613281,
+    "prompt_tokens_full": 792,
+    "prompt_tokens_used": 792,
+    "output_tokens": 23,
+    "EM": 0,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DMA_Q09",
+    "system": "RAG",
+    "latency": 2.153312921524048,
+    "prompt_tokens_full": 766,
+    "prompt_tokens_used": 766,
+    "output_tokens": 42,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DMA_Q10",
+    "system": "RAG",
+    "latency": 6.505889892578125,
+    "prompt_tokens_full": 783,
+    "prompt_tokens_used": 783,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DMA_Q11",
+    "system": "RAG",
+    "latency": 2.41589617729187,
+    "prompt_tokens_full": 793,
+    "prompt_tokens_used": 793,
+    "output_tokens": 37,
+    "EM": 0,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DMA_Q12",
+    "system": "RAG",
+    "latency": 3.6341521739959717,
+    "prompt_tokens_full": 794,
+    "prompt_tokens_used": 794,
+    "output_tokens": 70,
+    "EM": 0,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DMA_Q13",
+    "system": "RAG",
+    "latency": 4.710403919219971,
+    "prompt_tokens_full": 795,
+    "prompt_tokens_used": 795,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DMA_Q14",
+    "system": "RAG",
+    "latency": 4.777574300765991,
+    "prompt_tokens_full": 764,
+    "prompt_tokens_used": 764,
+    "output_tokens": 100,
+    "EM": 0,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DMA_Q15",
+    "system": "RAG",
+    "latency": 1.7397079467773438,
+    "prompt_tokens_full": 794,
+    "prompt_tokens_used": 794,
+    "output_tokens": 35,
+    "EM": 0,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DMA_Q16",
+    "system": "RAG",
+    "latency": 4.896116495132446,
+    "prompt_tokens_full": 792,
+    "prompt_tokens_used": 792,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DMA_Q17",
+    "system": "RAG",
+    "latency": 0.7065391540527344,
+    "prompt_tokens_full": 792,
+    "prompt_tokens_used": 792,
+    "output_tokens": 12,
+    "EM": 1,
+    "Recall": 1
+  },
+  {
+    "qa_id": "DMA_Q18",
+    "system": "RAG",
+    "latency": 0.8171062469482422,
+    "prompt_tokens_full": 792,
+    "prompt_tokens_used": 792,
+    "output_tokens": 15,
+    "EM": 1,
+    "Recall": 1
+  },
+  {
+    "qa_id": "DMA_Q19",
+    "system": "RAG",
+    "latency": 0.38533544540405273,
+    "prompt_tokens_full": 791,
+    "prompt_tokens_used": 791,
+    "output_tokens": 5,
+    "EM": 0,
+    "Recall": 1
+  },
+  {
+    "qa_id": "DMA_Q20",
+    "system": "RAG",
+    "latency": 4.5884459018707275,
+    "prompt_tokens_full": 796,
+    "prompt_tokens_used": 796,
+    "output_tokens": 100,
+    "EM": 0,
+    "Recall": 1
+  },
+  {
+    "qa_id": "DSA_Q01",
+    "system": "RAG",
+    "latency": 2.085724115371704,
+    "prompt_tokens_full": 770,
+    "prompt_tokens_used": 770,
+    "output_tokens": 41,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DSA_Q02",
+    "system": "RAG",
+    "latency": 4.207852840423584,
+    "prompt_tokens_full": 791,
+    "prompt_tokens_used": 791,
+    "output_tokens": 90,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DSA_Q03",
+    "system": "RAG",
+    "latency": 4.556002378463745,
+    "prompt_tokens_full": 789,
+    "prompt_tokens_used": 789,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DSA_Q04",
+    "system": "RAG",
+    "latency": 4.942724227905273,
+    "prompt_tokens_full": 761,
+    "prompt_tokens_used": 761,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DSA_Q05",
+    "system": "RAG",
+    "latency": 3.5430874824523926,
+    "prompt_tokens_full": 798,
+    "prompt_tokens_used": 798,
+    "output_tokens": 58,
+    "EM": 0,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DSA_Q06",
+    "system": "RAG",
+    "latency": 5.735386610031128,
+    "prompt_tokens_full": 795,
+    "prompt_tokens_used": 795,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DSA_Q07",
+    "system": "RAG",
+    "latency": 7.063403844833374,
+    "prompt_tokens_full": 771,
+    "prompt_tokens_used": 771,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DSA_Q08",
+    "system": "RAG",
+    "latency": 6.520906925201416,
+    "prompt_tokens_full": 775,
+    "prompt_tokens_used": 775,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DSA_Q09",
+    "system": "RAG",
+    "latency": 4.8300111293792725,
+    "prompt_tokens_full": 749,
+    "prompt_tokens_used": 749,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DSA_Q10",
+    "system": "RAG",
+    "latency": 0.8153455257415771,
+    "prompt_tokens_full": 792,
+    "prompt_tokens_used": 792,
+    "output_tokens": 15,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DSA_Q11",
+    "system": "RAG",
+    "latency": 3.958305597305298,
+    "prompt_tokens_full": 781,
+    "prompt_tokens_used": 781,
+    "output_tokens": 85,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DSA_Q12",
+    "system": "RAG",
+    "latency": 4.864748001098633,
+    "prompt_tokens_full": 783,
+    "prompt_tokens_used": 783,
+    "output_tokens": 100,
+    "EM": 0,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DSA_Q13",
+    "system": "RAG",
+    "latency": 4.642514705657959,
+    "prompt_tokens_full": 796,
+    "prompt_tokens_used": 796,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DSA_Q14",
+    "system": "RAG",
+    "latency": 4.51870059967041,
+    "prompt_tokens_full": 795,
+    "prompt_tokens_used": 795,
+    "output_tokens": 97,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DSA_Q15",
+    "system": "RAG",
+    "latency": 1.5041255950927734,
+    "prompt_tokens_full": 796,
+    "prompt_tokens_used": 796,
+    "output_tokens": 29,
+    "EM": 0,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DSA_Q16",
+    "system": "RAG",
+    "latency": 4.821549654006958,
+    "prompt_tokens_full": 791,
+    "prompt_tokens_used": 791,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DSA_Q17",
+    "system": "RAG",
+    "latency": 5.7357704639434814,
+    "prompt_tokens_full": 795,
+    "prompt_tokens_used": 795,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DSA_Q18",
+    "system": "RAG",
+    "latency": 0.40271687507629395,
+    "prompt_tokens_full": 770,
+    "prompt_tokens_used": 770,
+    "output_tokens": 5,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "DSA_Q19",
+    "system": "RAG",
+    "latency": 0.4043738842010498,
+    "prompt_tokens_full": 789,
+    "prompt_tokens_used": 789,
+    "output_tokens": 4,
+    "EM": 0,
+    "Recall": 1
+  },
+  {
+    "qa_id": "DSA_Q20",
+    "system": "RAG",
+    "latency": 4.6518261432647705,
+    "prompt_tokens_full": 791,
+    "prompt_tokens_used": 791,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 1
+  },
+  {
+    "qa_id": "GDPR_Q01",
+    "system": "RAG",
+    "latency": 0.8397550582885742,
+    "prompt_tokens_full": 794,
+    "prompt_tokens_used": 794,
+    "output_tokens": 16,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "GDPR_Q02",
+    "system": "RAG",
+    "latency": 4.561561822891235,
+    "prompt_tokens_full": 789,
+    "prompt_tokens_used": 789,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "GDPR_Q03",
+    "system": "RAG",
+    "latency": 5.450880765914917,
+    "prompt_tokens_full": 790,
+    "prompt_tokens_used": 790,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "GDPR_Q04",
+    "system": "RAG",
+    "latency": 4.952514410018921,
+    "prompt_tokens_full": 791,
+    "prompt_tokens_used": 791,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "GDPR_Q05",
+    "system": "RAG",
+    "latency": 4.878703832626343,
+    "prompt_tokens_full": 801,
+    "prompt_tokens_used": 801,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "GDPR_Q06",
+    "system": "RAG",
+    "latency": 1.2428314685821533,
+    "prompt_tokens_full": 796,
+    "prompt_tokens_used": 796,
+    "output_tokens": 23,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "GDPR_Q07",
+    "system": "RAG",
+    "latency": 4.889844179153442,
+    "prompt_tokens_full": 791,
+    "prompt_tokens_used": 791,
+    "output_tokens": 91,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "GDPR_Q08",
+    "system": "RAG",
+    "latency": 2.7351787090301514,
+    "prompt_tokens_full": 793,
+    "prompt_tokens_used": 793,
+    "output_tokens": 58,
+    "EM": 0,
+    "Recall": 0
+  },
+  {
+    "qa_id": "GDPR_Q09",
+    "system": "RAG",
+    "latency": 1.835204839706421,
+    "prompt_tokens_full": 799,
+    "prompt_tokens_used": 799,
+    "output_tokens": 37,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "GDPR_Q10",
+    "system": "RAG",
+    "latency": 1.6148884296417236,
+    "prompt_tokens_full": 800,
+    "prompt_tokens_used": 800,
+    "output_tokens": 31,
+    "EM": 0,
+    "Recall": 0
+  },
+  {
+    "qa_id": "GDPR_Q11",
+    "system": "RAG",
+    "latency": 2.581171989440918,
+    "prompt_tokens_full": 791,
+    "prompt_tokens_used": 791,
+    "output_tokens": 53,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "GDPR_Q12",
+    "system": "RAG",
+    "latency": 5.195991039276123,
+    "prompt_tokens_full": 782,
+    "prompt_tokens_used": 782,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "GDPR_Q13",
+    "system": "RAG",
+    "latency": 6.421514987945557,
+    "prompt_tokens_full": 800,
+    "prompt_tokens_used": 800,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "GDPR_Q14",
+    "system": "RAG",
+    "latency": 4.597927808761597,
+    "prompt_tokens_full": 793,
+    "prompt_tokens_used": 793,
+    "output_tokens": 98,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "GDPR_Q15",
+    "system": "RAG",
+    "latency": 3.9776430130004883,
+    "prompt_tokens_full": 800,
+    "prompt_tokens_used": 800,
+    "output_tokens": 83,
+    "EM": 1,
+    "Recall": 1
+  },
+  {
+    "qa_id": "GDPR_Q16",
+    "system": "RAG",
+    "latency": 2.5641608238220215,
+    "prompt_tokens_full": 798,
+    "prompt_tokens_used": 798,
+    "output_tokens": 44,
+    "EM": 0,
+    "Recall": 0
+  },
+  {
+    "qa_id": "GDPR_Q17",
+    "system": "RAG",
+    "latency": 5.506232500076294,
+    "prompt_tokens_full": 797,
+    "prompt_tokens_used": 797,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "GDPR_Q18",
+    "system": "RAG",
+    "latency": 5.262398958206177,
+    "prompt_tokens_full": 772,
+    "prompt_tokens_used": 772,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "GDPR_Q19",
+    "system": "RAG",
+    "latency": 5.191417694091797,
+    "prompt_tokens_full": 797,
+    "prompt_tokens_used": 797,
+    "output_tokens": 100,
+    "EM": 1,
+    "Recall": 0
+  },
+  {
+    "qa_id": "GDPR_Q20",
+    "system": "RAG",
+    "latency": 1.171553373336792,
+    "prompt_tokens_full": 793,
+    "prompt_tokens_used": 793,
+    "output_tokens": 21,
+    "EM": 1,
+    "Recall": 0
+  }
+]

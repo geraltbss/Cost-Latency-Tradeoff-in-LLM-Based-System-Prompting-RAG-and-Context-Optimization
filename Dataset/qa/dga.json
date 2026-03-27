@@ -145,7 +145,7 @@
   "category": "Numerical threshold",
   "question": "Within what period must the competent authority assess the notification of a data intermediation service provider?",
   "article": "Article 11",
-  "answer_text": "The competent authority shall assess the notification within two months.",
+  "answer_text": "The competent authority shall assess the notification within one week.",
   "start_char": null,
   "end_char": null
 },
@@ -185,7 +185,7 @@
   "category": "Cross-reference",
   "question": "Which Chapter governs re-use of certain protected data held by public sector bodies?",
   "article": "Chapter II",
-  "answer_text": "Re-use of certain categories of protected data held by public sector bodies",
+  "answer_text": "Chapter II Re-use of certain categories of protected data held by public sector bodies",
   "start_char": null,
   "end_char": null
 },
@@ -195,7 +195,7 @@
   "category": "Cross-reference",
   "question": "Which Chapter governs data altruism?",
   "article": "Chapter IV",
-  "answer_text": "Data altruism",
+  "answer_text": "Chapter IV Data altruism",
   "start_char": null,
   "end_char": null
 }
